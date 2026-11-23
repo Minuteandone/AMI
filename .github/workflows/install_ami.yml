@@ -1,0 +1,34 @@
+name: Install AMI models from transferred archive
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out AMI
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Reassemble, verify and install source + weights
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -d archive_parts ]; then
+            echo "AMI sources already installed, nothing to do."
+            exit 0
+          fi
+          cat archive_parts/part_*.bin > /tmp/ami_bundle.zip
+          echo "875b0a1d00ffe1a83aae167cc586979744cb7acbf6f6da67db4e775743323ad5  /tmp/ami_bundle.zip" | sha256sum -c -
+          unzip -tq /tmp/ami_bundle.zip
+          unzip -oq /tmp/ami_bundle.zip -d .
+          rm -rf archive_parts
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Install complete AMI code and trained model weights"
+            git push
+          fi

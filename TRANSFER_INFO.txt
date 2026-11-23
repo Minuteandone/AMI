@@ -1,0 +1,2 @@
+AMI source archive in 15 binary chunks; workflow reassembles, checks sha256, unpacks and removes chunks.
+SHA256: 875b0a1d00ffe1a83aae167cc586979744cb7acbf6f6da67db4e775743323ad5
