@@ -1,0 +1,95 @@
+name: Generate with AMI
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: What should AMI make?
+        type: choice
+        options: [island, element_prediction, biography]
+        default: island
+      island_type:
+        description: Main island type (ignored for other modes)
+        type: choice
+        options: [random, breeding, teleporting, zapping]
+        default: random
+      elements:
+        description: Optional island elements, space-separated (e.g. Plant Cold Bone Fire)
+        type: string
+        default: ""
+      monster_name:
+        description: Monster for element/bio predictions
+        type: string
+        default: Bumbleler
+      seed:
+        description: Random seed
+        type: string
+        default: "20261122"
+  push:
+    paths:
+      - ".github/workflows/run_ami.yml"
+permissions:
+  contents: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install CPU dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -r requirements.txt
+      - name: Run AMI and save the result
+        env:
+          AMI_MODE: ${{ inputs.mode || 'island' }}
+          AMI_ISLAND_TYPE: ${{ inputs.island_type || 'random' }}
+          AMI_ELEMENTS: ${{ inputs.elements || '' }}
+          AMI_MONSTER_NAME: ${{ inputs.monster_name || 'Bumbleler' }}
+          AMI_SEED: ${{ inputs.seed || '20261122' }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import os,sys,subprocess,shlex,pathlib,json
+          results=pathlib.Path('results')
+          results.mkdir(exist_ok=True)
+          mode=os.environ.get('AMI_MODE') or 'island'
+          seed=os.environ.get('AMI_SEED') or '20261122'
+          try:
+              seed=str(int(seed))
+          except ValueError:
+              raise SystemExit('Seed must be an integer')
+          if mode=='island':
+              kind=os.environ.get('AMI_ISLAND_TYPE') or 'random'
+              cmd=[sys.executable,'factory/generate_island.py','--seed',seed,'--output',str(results/'island.json')]
+              if kind!='random':cmd+=['--type',kind]
+              els=shlex.split(os.environ.get('AMI_ELEMENTS') or '')
+              if els:cmd+=['--elements',*els]
+              output_name='island_console.txt'
+          elif mode=='element_prediction':
+              cmd=[sys.executable,'element_predictor/predict_elements_count.py',os.environ.get('AMI_MONSTER_NAME') or 'Bumbleler']
+              output_name='elements.json'
+          elif mode=='biography':
+              cmd=[sys.executable,'bios/free_unigram/unigram_bio.py','generate',os.environ.get('AMI_MONSTER_NAME') or 'Bumbleler','--dir','complete_model','--seed',seed]
+              output_name='biography.json'
+          else:raise SystemExit('Unsupported mode: '+mode)
+          with (results/output_name).open('w',encoding='utf-8') as out:
+              p=subprocess.run(cmd,stdout=out,stderr=subprocess.STDOUT,text=True)
+          print((results/output_name).read_text(encoding='utf-8')[:20000])
+          if p.returncode:raise SystemExit(p.returncode)
+          summary=os.environ.get('GITHUB_STEP_SUMMARY')
+          if summary:
+              with open(summary,'a') as s:
+                  s.write('### AMI '+mode+' completed ✅\n\nDownload the generated files from this run’s artifacts.\n')
+          PY
+      - name: Upload generated output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ami-generated-output
+          path: results/
+          if-no-files-found: warn
+          retention-days: 30
