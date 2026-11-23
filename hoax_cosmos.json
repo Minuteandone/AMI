@@ -1,0 +1,1110 @@
+{
+  "island_name": "Hoax Cosmos",
+  "primary_type": "zapping",
+  "seed_elements": [
+    "Hoax"
+  ],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "Fon Islao"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 20261122,
+  "monster_list": [
+    {
+      "name": "Wiwrn",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "ScTimrat",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Pulaster",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Fop",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Solete",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Stahi",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Floode",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Crehoa Muly",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Roo'y",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "SzurIhe",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Vhaksqle",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Bleler",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    }
+  ],
+  "gimmicks": [],
+  "status": "entirely_ai_generated_experiment",
+  "zap_generation_style": "Celestial",
+  "monster_count": 12,
+  "generated_monster_count": 12,
+  "original_generated_name": "Fon Islao",
+  "name_origin": "Named by the user; original model output retained in original_generated_name",
+  "egg_inventories": {
+    "Wiwrn": {
+      "monster": "Wiwrn",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 122,
+      "requirements": [
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 22
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 21
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 15
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 14
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 13
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 9
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 6
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 4
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 4
+        },
+        {
+          "egg": "Flowah",
+          "egg_id": 272,
+          "required": 3
+        },
+        {
+          "egg": "Pummel",
+          "egg_id": 21,
+          "required": 3
+        },
+        {
+          "egg": "Spunge",
+          "egg_id": 17,
+          "required": 3
+        },
+        {
+          "egg": "Entbrat",
+          "egg_id": 29,
+          "required": 2
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 2
+        },
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "ScTimrat": {
+      "monster": "ScTimrat",
+      "style": "celestial",
+      "egg_types": 14,
+      "total_eggs": 165,
+      "requirements": [
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 45
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 30
+        },
+        {
+          "egg": "Quibble",
+          "egg_id": 8,
+          "required": 29
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 15
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 14
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 7
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 6
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 5
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 4
+        },
+        {
+          "egg": "Congle",
+          "egg_id": 20,
+          "required": 3
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 2
+        },
+        {
+          "egg": "Glowl",
+          "egg_id": 273,
+          "required": 2
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 2
+        },
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Pulaster": {
+      "monster": "Pulaster",
+      "style": "celestial",
+      "egg_types": 17,
+      "total_eggs": 195,
+      "requirements": [
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 78
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 21
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 15
+        },
+        {
+          "egg": "Kayna",
+          "egg_id": 262,
+          "required": 13
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 11
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 11
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 8
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 8
+        },
+        {
+          "egg": "Entbrat",
+          "egg_id": 29,
+          "required": 6
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 5
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 4
+        },
+        {
+          "egg": "Drumpler",
+          "egg_id": 14,
+          "required": 4
+        },
+        {
+          "egg": "Spunge",
+          "egg_id": 17,
+          "required": 3
+        },
+        {
+          "egg": "Congle",
+          "egg_id": 20,
+          "required": 2
+        },
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 2
+        },
+        {
+          "egg": "Floogull",
+          "egg_id": 261,
+          "required": 2
+        },
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Fop": {
+      "monster": "Fop",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 161,
+      "requirements": [
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 54
+        },
+        {
+          "egg": "Quibble",
+          "egg_id": 8,
+          "required": 29
+        },
+        {
+          "egg": "Floogull",
+          "egg_id": 261,
+          "required": 19
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 9
+        },
+        {
+          "egg": "Glowl",
+          "egg_id": 273,
+          "required": 8
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 8
+        },
+        {
+          "egg": "Pummel",
+          "egg_id": 21,
+          "required": 8
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 7
+        },
+        {
+          "egg": "Spunge",
+          "egg_id": 17,
+          "required": 6
+        },
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 4
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 2
+        },
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 2
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 2
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 2
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Solete": {
+      "monster": "Solete",
+      "style": "celestial",
+      "egg_types": 12,
+      "total_eggs": 114,
+      "requirements": [
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 59
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 12
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 9
+        },
+        {
+          "egg": "Stogg",
+          "egg_id": 263,
+          "required": 9
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 5
+        },
+        {
+          "egg": "Quibble",
+          "egg_id": 8,
+          "required": 4
+        },
+        {
+          "egg": "Floogull",
+          "egg_id": 261,
+          "required": 3
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 3
+        },
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 3
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 3
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 2
+        },
+        {
+          "egg": "Shrubb",
+          "egg_id": 10,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Stahi": {
+      "monster": "Stahi",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 132,
+      "requirements": [
+        {
+          "egg": "Flowah",
+          "egg_id": 272,
+          "required": 32
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 31
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 17
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 15
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 9
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 6
+        },
+        {
+          "egg": "Drumpler",
+          "egg_id": 14,
+          "required": 5
+        },
+        {
+          "egg": "Riff",
+          "egg_id": 28,
+          "required": 4
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 2
+        },
+        {
+          "egg": "Glowl",
+          "egg_id": 273,
+          "required": 2
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 2
+        },
+        {
+          "egg": "Repatillo",
+          "egg_id": 274,
+          "required": 2
+        },
+        {
+          "egg": "Shrubb",
+          "egg_id": 10,
+          "required": 2
+        },
+        {
+          "egg": "Spunge",
+          "egg_id": 17,
+          "required": 2
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Floode": {
+      "monster": "Floode",
+      "style": "celestial",
+      "egg_types": 12,
+      "total_eggs": 47,
+      "requirements": [
+        {
+          "egg": "Kayna",
+          "egg_id": 262,
+          "required": 15
+        },
+        {
+          "egg": "Drumpler",
+          "egg_id": 14,
+          "required": 7
+        },
+        {
+          "egg": "Shrubb",
+          "egg_id": 10,
+          "required": 5
+        },
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 4
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 3
+        },
+        {
+          "egg": "Congle",
+          "egg_id": 20,
+          "required": 2
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 2
+        },
+        {
+          "egg": "Floogull",
+          "egg_id": 261,
+          "required": 2
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 2
+        },
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 2
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 2
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Crehoa Muly": {
+      "monster": "Crehoa Muly",
+      "style": "celestial",
+      "egg_types": 10,
+      "total_eggs": 71,
+      "requirements": [
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 28
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 10
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 8
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 7
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 6
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 3
+        },
+        {
+          "egg": "Entbrat",
+          "egg_id": 29,
+          "required": 3
+        },
+        {
+          "egg": "Flowah",
+          "egg_id": 272,
+          "required": 2
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 2
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Roo'y": {
+      "monster": "Roo'y",
+      "style": "celestial",
+      "egg_types": 16,
+      "total_eggs": 156,
+      "requirements": [
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 45
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 26
+        },
+        {
+          "egg": "Barrb",
+          "egg_id": 268,
+          "required": 22
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 18
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 9
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 7
+        },
+        {
+          "egg": "Congle",
+          "egg_id": 20,
+          "required": 4
+        },
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 4
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 4
+        },
+        {
+          "egg": "Shellbeat",
+          "egg_id": 25,
+          "required": 4
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 4
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 3
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 2
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 2
+        },
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 1
+        },
+        {
+          "egg": "Scups",
+          "egg_id": 31,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "SzurIhe": {
+      "monster": "SzurIhe",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 94,
+      "requirements": [
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 19
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 19
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 13
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 8
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 6
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 5
+        },
+        {
+          "egg": "Pummel",
+          "egg_id": 21,
+          "required": 4
+        },
+        {
+          "egg": "Scups",
+          "egg_id": 31,
+          "required": 4
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 3
+        },
+        {
+          "egg": "Riff",
+          "egg_id": 28,
+          "required": 3
+        },
+        {
+          "egg": "Congle",
+          "egg_id": 20,
+          "required": 2
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 2
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 2
+        },
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 2
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Vhaksqle": {
+      "monster": "Vhaksqle",
+      "style": "celestial",
+      "egg_types": 10,
+      "total_eggs": 34,
+      "requirements": [
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 10
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 5
+        },
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 5
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 3
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 3
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 2
+        },
+        {
+          "egg": "Glowl",
+          "egg_id": 273,
+          "required": 2
+        },
+        {
+          "egg": "Repatillo",
+          "egg_id": 274,
+          "required": 2
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 1
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Bleler": {
+      "monster": "Bleler",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 204,
+      "requirements": [
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 60
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 55
+        },
+        {
+          "egg": "Shrubb",
+          "egg_id": 10,
+          "required": 32
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 10
+        },
+        {
+          "egg": "Drumpler",
+          "egg_id": 14,
+          "required": 8
+        },
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 7
+        },
+        {
+          "egg": "Kayna",
+          "egg_id": 262,
+          "required": 6
+        },
+        {
+          "egg": "Scups",
+          "egg_id": 31,
+          "required": 6
+        },
+        {
+          "egg": "Barrb",
+          "egg_id": 268,
+          "required": 4
+        },
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 4
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 4
+        },
+        {
+          "egg": "Shellbeat",
+          "egg_id": 25,
+          "required": 3
+        },
+        {
+          "egg": "Congle",
+          "egg_id": 20,
+          "required": 2
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 2
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    }
+  },
+  "egg_inventory_generator": "empirical_conditional_inventory_sampler_v1",
+  "inventory_status": "generated_fictional_not_official_requirements"
+}

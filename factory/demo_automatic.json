@@ -1,0 +1,121 @@
+{
+  "island_name": "Wir Air Island",
+  "primary_type": "zapping",
+  "seed_elements": [
+    "Fire"
+  ],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "Wir Air Island"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 62,
+  "monster_list": [
+    {
+      "name": "Rikurn",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Pummhoenot",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Bahmoz",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Thbog",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Alcoss",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Whaddee",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Grong",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Pumpli$ra",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Tumke",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Fire",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    }
+  ],
+  "gimmicks": [],
+  "status": "entirely_ai_generated_experiment",
+  "zap_generation_style": "Supernatural",
+  "monster_count": 9,
+  "generated_monster_count": 9
+}

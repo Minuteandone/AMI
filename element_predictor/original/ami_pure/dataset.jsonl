@@ -1,0 +1,263 @@
+{"name": "Attmoz", "conditions": ["class:Celestial", "element:Celestial", "element:Air"]}
+{"name": "Blasoom", "conditions": ["class:Celestial", "element:Celestial", "element:Plant"]}
+{"name": "Furnoss", "conditions": ["class:Celestial", "element:Celestial", "element:Fire"]}
+{"name": "Galvana", "conditions": ["class:Celestial", "element:Celestial", "element:Electricity"]}
+{"name": "Glaishur", "conditions": ["class:Celestial", "element:Celestial", "element:Cold"]}
+{"name": "Hornacle", "conditions": ["class:Celestial", "element:Celestial", "element:Water"]}
+{"name": "Loodvigg", "conditions": ["class:Celestial", "element:Celestial", "element:Shadow"]}
+{"name": "Plixie", "conditions": ["class:Celestial", "element:Celestial", "element:Plasma"]}
+{"name": "Scaratar", "conditions": ["class:Celestial", "element:Celestial", "element:Poison"]}
+{"name": "Syncopite", "conditions": ["class:Celestial", "element:Celestial", "element:Crystal"]}
+{"name": "Torrt", "conditions": ["class:Celestial", "element:Celestial", "element:Earth"]}
+{"name": "Vhamp", "conditions": ["class:Celestial", "element:Celestial", "element:Mech"]}
+{"name": "Aquatic Fa", "conditions": ["class:Dipster", "subclass:Elemental", "element:Dipster", "element:Water", "note:Fa"]}
+{"name": "Bishop Mi", "conditions": ["class:Dipster", "subclass:Royal", "element:Dipster", "note:Mi"]}
+{"name": "Do", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:Do"]}
+{"name": "Fa", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:Fa"]}
+{"name": "King Do", "conditions": ["class:Dipster", "subclass:Royal", "element:Dipster", "note:Do"]}
+{"name": "Knight Fa", "conditions": ["class:Dipster", "subclass:Royal", "element:Dipster", "note:Fa"]}
+{"name": "La", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:La"]}
+{"name": "Mi", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:Mi"]}
+{"name": "Queen Re", "conditions": ["class:Dipster", "subclass:Royal", "element:Dipster", "note:Re"]}
+{"name": "Re", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:Re"]}
+{"name": "Sol", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:Sol"]}
+{"name": "Sol-stice", "conditions": ["class:Dipster", "subclass:Astral", "element:Dipster", "element:Celestial", "note:Sol"]}
+{"name": "Superno-Fa", "conditions": ["class:Dipster", "subclass:Astral", "element:Dipster", "element:Celestial", "note:Fa"]}
+{"name": "Terrene Sol", "conditions": ["class:Dipster", "subclass:Elemental", "element:Dipster", "element:Earth", "note:Sol"]}
+{"name": "Ti", "conditions": ["class:Dipster", "subclass:Tonal", "element:Dipster", "note:Ti"]}
+{"name": "Vitreous Ti", "conditions": ["class:Dipster", "subclass:Elemental", "element:Dipster", "element:Fire", "note:Ti"]}
+{"name": "Waxen La", "conditions": ["class:Dipster", "subclass:Elemental", "element:Dipster", "element:Fire", "note:La"]}
+{"name": "Ghazt", "conditions": ["class:Ethereal", "element:Plasma"]}
+{"name": "Grumpyre", "conditions": ["class:Ethereal", "element:Shadow"]}
+{"name": "Humbug", "conditions": ["class:Ethereal", "element:Poison"]}
+{"name": "Jeeode", "conditions": ["class:Ethereal", "element:Crystal"]}
+{"name": "Reebro", "conditions": ["class:Ethereal", "element:Mech"]}
+{"name": "Arackulele", "conditions": ["class:Ethereal", "element:Shadow", "element:Mech"]}
+{"name": "Bellowfish", "conditions": ["class:Ethereal", "element:Mech", "element:Crystal"]}
+{"name": "Boodoo", "conditions": ["class:Ethereal", "element:Shadow", "element:Crystal"]}
+{"name": "Dragong", "conditions": ["class:Ethereal", "element:Mech", "element:Poison"]}
+{"name": "Fung Pray", "conditions": ["class:Ethereal", "element:Crystal", "element:Poison"]}
+{"name": "Jellbilly", "conditions": ["class:Ethereal", "element:Plasma", "element:Poison"]}
+{"name": "Kazilleon", "conditions": ["class:Ethereal", "element:Shadow", "element:Poison"]}
+{"name": "Nebulob", "conditions": ["class:Ethereal", "element:Plasma", "element:Mech"]}
+{"name": "Sox", "conditions": ["class:Ethereal", "element:Plasma", "element:Crystal"]}
+{"name": "Whisp", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow"]}
+{"name": "Auglur", "conditions": ["class:Ethereal", "element:Plasma", "element:Mech", "element:Poison"]}
+{"name": "Blarret", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Poison"]}
+{"name": "Flasque", "conditions": ["class:Ethereal", "element:Plasma", "element:Crystal", "element:Poison"]}
+{"name": "Gaddzooks", "conditions": ["class:Ethereal", "element:Plasma", "element:Mech", "element:Crystal"]}
+{"name": "Meebkin", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Crystal"]}
+{"name": "Nitebear", "conditions": ["class:Ethereal", "element:Shadow", "element:Mech", "element:Crystal"]}
+{"name": "Piplash", "conditions": ["class:Ethereal", "element:Shadow", "element:Mech", "element:Poison"]}
+{"name": "Teeter-Tauter", "conditions": ["class:Ethereal", "element:Mech", "element:Crystal", "element:Poison"]}
+{"name": "X'rt", "conditions": ["class:Ethereal", "element:Shadow", "element:Crystal", "element:Poison"]}
+{"name": "Yooreek", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Mech"]}
+{"name": "Oogiddy", "conditions": ["class:Ethereal", "element:Shadow", "element:Mech", "element:Crystal", "element:Poison"]}
+{"name": "Pentumbra", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Crystal", "element:Poison"]}
+{"name": "Rhysmuth", "conditions": ["class:Ethereal", "element:Plasma", "element:Mech", "element:Crystal", "element:Poison"]}
+{"name": "Vhenshun", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Mech", "element:Poison"]}
+{"name": "Whaill", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Mech", "element:Crystal"]}
+{"name": "BeMeebEth", "conditions": ["class:Ethereal", "element:Plasma", "element:Shadow", "element:Mech", "element:Crystal", "element:Poison"]}
+{"name": "Kayna", "conditions": ["class:Fire", "element:Fire"]}
+{"name": "Boskus", "conditions": ["class:Fire", "element:Cold", "element:Fire"]}
+{"name": "Flowah", "conditions": ["class:Fire", "element:Plant", "element:Fire"]}
+{"name": "Glowl", "conditions": ["class:Fire", "element:Air", "element:Fire"]}
+{"name": "Phangler", "conditions": ["class:Fire", "element:Water", "element:Fire"]}
+{"name": "Stogg", "conditions": ["class:Fire", "element:Earth", "element:Fire"]}
+{"name": "Barrb", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Fire"]}
+{"name": "Floogull", "conditions": ["class:Fire", "element:Air", "element:Earth", "element:Fire"]}
+{"name": "Repatillo", "conditions": ["class:Fire", "element:Plant", "element:Earth", "element:Fire"]}
+{"name": "Rootitoot", "conditions": ["class:Fire", "element:Plant", "element:Water", "element:Fire"]}
+{"name": "Sooza", "conditions": ["class:Fire", "element:Plant", "element:Cold", "element:Fire"]}
+{"name": "Thrumble", "conditions": ["class:Fire", "element:Earth", "element:Water", "element:Fire"]}
+{"name": "Whaddle", "conditions": ["class:Fire", "element:Air", "element:Water", "element:Fire"]}
+{"name": "Woolabee", "conditions": ["class:Fire", "element:Air", "element:Cold", "element:Fire"]}
+{"name": "Wynq", "conditions": ["class:Fire", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Ziggurab", "conditions": ["class:Fire", "element:Earth", "element:Cold", "element:Fire"]}
+{"name": "Bisonorus", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Water", "element:Fire"]}
+{"name": "Edamimi", "conditions": ["class:Fire", "element:Plant", "element:Earth", "element:Water", "element:Fire"]}
+{"name": "Flum Ox", "conditions": ["class:Fire", "element:Air", "element:Earth", "element:Water", "element:Fire"]}
+{"name": "Incisaur", "conditions": ["class:Fire", "element:Plant", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Krillby", "conditions": ["class:Fire", "element:Air", "element:Earth", "element:Cold", "element:Fire"]}
+{"name": "PongPing", "conditions": ["class:Fire", "element:Plant", "element:Earth", "element:Cold", "element:Fire"]}
+{"name": "Sneyser", "conditions": ["class:Fire", "element:Air", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Tiawa", "conditions": ["class:Fire", "element:Earth", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Tring", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Earth", "element:Fire"]}
+{"name": "Yelmut", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Cold", "element:Fire"]}
+{"name": "Bowhead", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Candelavra", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Earth", "element:Water", "element:Fire"]}
+{"name": "Drummidary", "conditions": ["class:Fire", "element:Air", "element:Plant", "element:Earth", "element:Cold", "element:Fire"]}
+{"name": "Gnarls", "conditions": ["class:Fire", "element:Plant", "element:Earth", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Tuskski", "conditions": ["class:Fire", "element:Air", "element:Earth", "element:Water", "element:Cold", "element:Fire"]}
+{"name": "Alcordion", "conditions": ["class:Legendary", "element:Legendary", "element:Air"]}
+{"name": "AnomaLee", "conditions": ["class:Legendary", "subclass:Werdo", "element:Legendary"]}
+{"name": "bb$enior", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bb$ervo", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bb$inistr", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bb$kinbash", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bb$ynth", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bbdek$tr", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bbjunior$", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "bbli$zard", "conditions": ["class:Legendary", "subclass:bb$quad", "element:Legendary", "element:Cold"]}
+{"name": "Charrkoll", "conditions": ["class:Legendary", "subclass:Werdo", "element:Legendary"]}
+{"name": "Maggpi", "conditions": ["class:Legendary", "subclass:Werdo", "element:Legendary"]}
+{"name": "Parlsona", "conditions": ["class:Legendary", "subclass:Werdo", "element:Legendary"]}
+{"name": "Shugabass", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugabeats", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugabush", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugabuzz", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugajo", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugarock", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugavox", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Shugitar", "conditions": ["class:Legendary", "subclass:Shugafam", "element:Legendary", "element:Plant"]}
+{"name": "Stoowarb", "conditions": ["class:Legendary", "subclass:Werdo", "element:Legendary"]}
+{"name": "T-Pirainha", "conditions": ["class:Legendary", "element:Legendary", "element:Water"]}
+{"name": "Tawkerr", "conditions": ["class:Legendary", "subclass:Werdo", "element:Legendary"]}
+{"name": "Clackula", "conditions": ["class:Magical", "element:Bone"]}
+{"name": "Floot Fly", "conditions": ["class:Magical", "element:Faerie"]}
+{"name": "Fluoress", "conditions": ["class:Magical", "element:Light"]}
+{"name": "Theremind", "conditions": ["class:Magical", "element:Psychic"]}
+{"name": "Bonkers", "conditions": ["class:Magical", "element:Plant", "element:Psychic"]}
+{"name": "Bulbo", "conditions": ["class:Magical", "element:Cold", "element:Light"]}
+{"name": "Cahoot", "conditions": ["class:Magical", "element:Psychic", "element:Light"]}
+{"name": "Denchuhs", "conditions": ["class:Magical", "element:Water", "element:Bone"]}
+{"name": "Déjà-Jin", "conditions": ["class:Magical", "element:Psychic", "element:Faerie"]}
+{"name": "Gob", "conditions": ["class:Magical", "element:Plant", "element:Light"]}
+{"name": "Hawlo", "conditions": ["class:Magical", "element:Fire", "element:Bone"]}
+{"name": "HippityHop", "conditions": ["class:Magical", "element:Earth", "element:Faerie"]}
+{"name": "Knucklehead", "conditions": ["class:Magical", "element:Light", "element:Faerie"]}
+{"name": "Osstax", "conditions": ["class:Magical", "element:Bone", "element:Faerie"]}
+{"name": "Peckidna", "conditions": ["class:Magical", "element:Earth", "element:Bone"]}
+{"name": "Pluckbill", "conditions": ["class:Magical", "element:Fire", "element:Light"]}
+{"name": "Poppette", "conditions": ["class:Magical", "element:Water", "element:Psychic"]}
+{"name": "Roarick", "conditions": ["class:Magical", "element:Bone", "element:Light"]}
+{"name": "Squot", "conditions": ["class:Magical", "element:Cold", "element:Faerie"]}
+{"name": "Wimmzies", "conditions": ["class:Magical", "element:Fire", "element:Faerie"]}
+{"name": "Xyster", "conditions": ["class:Magical", "element:Psychic", "element:Bone"]}
+{"name": "Yuggler", "conditions": ["class:Magical", "element:Fire", "element:Psychic"]}
+{"name": "Banjaw", "conditions": ["class:Magical", "element:Water", "element:Fire", "element:Bone"]}
+{"name": "Bridg-it", "conditions": ["class:Magical", "element:Earth", "element:Fire", "element:Faerie"]}
+{"name": "Cantorell", "conditions": ["class:Magical", "element:Earth", "element:Cold", "element:Faerie"]}
+{"name": "Clavi Gnat", "conditions": ["class:Magical", "element:Cold", "element:Fire", "element:Faerie"]}
+{"name": "Fiddlement", "conditions": ["class:Magical", "element:Cold", "element:Fire", "element:Light"]}
+{"name": "Frondley", "conditions": ["class:Magical", "element:Psychic", "element:Light", "element:Faerie"]}
+{"name": "G'day", "conditions": ["class:Magical", "element:Psychic", "element:Bone", "element:Light"]}
+{"name": "Larvaluss", "conditions": ["class:Magical", "element:Psychic", "element:Bone", "element:Faerie"]}
+{"name": "Mushaboom", "conditions": ["class:Magical", "element:Bone", "element:Light", "element:Faerie"]}
+{"name": "Periscorp", "conditions": ["class:Magical", "element:Water", "element:Fire", "element:Psychic"]}
+{"name": "Rooba", "conditions": ["class:Magical", "element:Plant", "element:Fire", "element:Psychic"]}
+{"name": "Spytrap", "conditions": ["class:Magical", "element:Plant", "element:Cold", "element:Light"]}
+{"name": "Tapricorn", "conditions": ["class:Magical", "element:Plant", "element:Water", "element:Psychic"]}
+{"name": "TooToo", "conditions": ["class:Magical", "element:Plant", "element:Fire", "element:Light"]}
+{"name": "Uuduk", "conditions": ["class:Magical", "element:Earth", "element:Fire", "element:Bone"]}
+{"name": "Withur", "conditions": ["class:Magical", "element:Earth", "element:Water", "element:Bone"]}
+{"name": "Blow't", "conditions": ["class:Magical", "element:Plant", "element:Cold", "element:Fire", "element:Light"]}
+{"name": "Enchantling", "conditions": ["class:Magical", "element:Psychic", "element:Bone", "element:Light", "element:Faerie"]}
+{"name": "Gloptic", "conditions": ["class:Magical", "element:Plant", "element:Water", "element:Fire", "element:Psychic"]}
+{"name": "Pladdie", "conditions": ["class:Magical", "element:Earth", "element:Cold", "element:Fire", "element:Faerie"]}
+{"name": "Plinkajou", "conditions": ["class:Magical", "element:Earth", "element:Water", "element:Fire", "element:Bone"]}
+{"name": "Anglow", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Water"]}
+{"name": "Buzzinga", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Fire"]}
+{"name": "Cataliszt", "conditions": ["class:Mythical", "subclass:Dream Single", "element:Dream"]}
+{"name": "Cherubble", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Fire"]}
+{"name": "G'joob", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Plant"]}
+{"name": "Hyehehe", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Earth"]}
+{"name": "Strombonin", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Cold"]}
+{"name": "Yawstrich", "conditions": ["class:Mythical", "subclass:Core Mythical", "element:Mythical", "element:Air"]}
+{"name": "Bleatnik", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Plant"]}
+{"name": "Cranchee", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Cold"]}
+{"name": "Knurv", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Fire"]}
+{"name": "Pinghound", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Water"]}
+{"name": "shLep", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Fire"]}
+{"name": "Sporerow", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Air"]}
+{"name": "Wheezel", "conditions": ["class:Mythical", "subclass:Dreamythical", "element:Dream", "element:Mythical", "element:Earth"]}
+{"name": "Mammott", "conditions": ["class:Natural", "element:Cold"]}
+{"name": "Noggin", "conditions": ["class:Natural", "element:Earth"]}
+{"name": "Potbelly", "conditions": ["class:Natural", "element:Plant"]}
+{"name": "Toe Jammer", "conditions": ["class:Natural", "element:Water"]}
+{"name": "Tweedle", "conditions": ["class:Natural", "element:Air"]}
+{"name": "Cybop", "conditions": ["class:Natural", "element:Air", "element:Earth"]}
+{"name": "Dandidoo", "conditions": ["class:Natural", "element:Air", "element:Plant"]}
+{"name": "Drumpler", "conditions": ["class:Natural", "element:Earth", "element:Cold"]}
+{"name": "Furcorn", "conditions": ["class:Natural", "element:Plant", "element:Cold"]}
+{"name": "Fwog", "conditions": ["class:Natural", "element:Earth", "element:Water"]}
+{"name": "Maw", "conditions": ["class:Natural", "element:Water", "element:Cold"]}
+{"name": "Oaktopus", "conditions": ["class:Natural", "element:Plant", "element:Water"]}
+{"name": "Pango", "conditions": ["class:Natural", "element:Air", "element:Cold"]}
+{"name": "Quibble", "conditions": ["class:Natural", "element:Air", "element:Water"]}
+{"name": "Shrubb", "conditions": ["class:Natural", "element:Plant", "element:Earth"]}
+{"name": "Bowgart", "conditions": ["class:Natural", "element:Plant", "element:Water", "element:Cold"]}
+{"name": "Clamble", "conditions": ["class:Natural", "element:Plant", "element:Earth", "element:Cold"]}
+{"name": "Congle", "conditions": ["class:Natural", "element:Air", "element:Water", "element:Cold"]}
+{"name": "PomPom", "conditions": ["class:Natural", "element:Air", "element:Earth", "element:Cold"]}
+{"name": "Pummel", "conditions": ["class:Natural", "element:Plant", "element:Earth", "element:Water"]}
+{"name": "Reedling", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Earth"]}
+{"name": "Scups", "conditions": ["class:Natural", "element:Air", "element:Earth", "element:Water"]}
+{"name": "Spunge", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Water"]}
+{"name": "T-Rox", "conditions": ["class:Natural", "element:Earth", "element:Water", "element:Cold"]}
+{"name": "Thumpies", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Cold"]}
+{"name": "Deedge", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Water", "element:Cold"]}
+{"name": "Entbrat", "conditions": ["class:Natural", "element:Plant", "element:Earth", "element:Water", "element:Cold"]}
+{"name": "Quarrister", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Earth", "element:Cold"]}
+{"name": "Riff", "conditions": ["class:Natural", "element:Air", "element:Earth", "element:Water", "element:Cold"]}
+{"name": "Shellbeat", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Earth", "element:Water"]}
+{"name": "Mimic", "conditions": ["class:Natural", "element:Air", "element:Plant", "element:Earth", "element:Water", "element:Cold"]}
+{"name": "Arcorina", "conditions": ["class:Paironormal", "element:Ruin"]}
+{"name": "Hairionette", "conditions": ["class:Paironormal", "element:Control"]}
+{"name": "Owlesque", "conditions": ["class:Paironormal", "element:Hoax"]}
+{"name": "Shhimmer", "conditions": ["class:Paironormal", "element:Depths"]}
+{"name": "Dakktyl", "conditions": ["class:Paironormal", "element:Hoax", "element:Ruin"]}
+{"name": "eRmA gUrDy", "conditions": ["class:Paironormal", "element:Control", "element:Depths"]}
+{"name": "Raqsoun", "conditions": ["class:Paironormal", "element:Control", "element:Ruin"]}
+{"name": "Scallyrags", "conditions": ["class:Paironormal", "element:Control", "element:Hoax"]}
+{"name": "The Inflatterer", "conditions": ["class:Paironormal", "element:Hoax", "element:Depths"]}
+{"name": "Vawk", "conditions": ["class:Paironormal", "element:Ruin", "element:Depths"]}
+{"name": "Galymph", "conditions": ["class:Paironormal", "element:Control", "element:Hoax", "element:Depths"]}
+{"name": "Illoost", "conditions": ["class:Paironormal", "element:Hoax", "element:Ruin", "element:Depths"]}
+{"name": "Jerm", "conditions": ["class:Paironormal", "element:Control", "element:Hoax", "element:Ruin"]}
+{"name": "Unklaw", "conditions": ["class:Paironormal", "element:Control", "element:Ruin", "element:Depths"]}
+{"name": "STRingmaster", "conditions": ["class:Paironormal", "element:Control", "element:Hoax", "element:Ruin", "element:Depths"]}
+{"name": "Bogle", "conditions": ["class:Primordial", "element:Air Primordial", "element:Air"]}
+{"name": "Droah", "conditions": ["class:Primordial", "element:Water Primordial", "element:Water"]}
+{"name": "Fandhul", "conditions": ["class:Primordial", "element:Cold Primordial", "element:Cold"]}
+{"name": "Lowb", "conditions": ["class:Primordial", "element:Plant Primordial", "element:Plant"]}
+{"name": "Tunefor", "conditions": ["class:Primordial", "element:Earth Primordial", "element:Earth"]}
+{"name": "Blabbit", "conditions": ["class:Seasonal", "subclass:Core", "element:Eggs-Travaganza", "element:Water"]}
+{"name": "Boo'qwurm", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:MindBoggle", "element:Psychic"]}
+{"name": "Carillong", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Crescendo Moon"]}
+{"name": "Clavavera", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Beat Hereafter", "element:Bone"]}
+{"name": "Ffidyll", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Cloverspell", "element:Faerie"]}
+{"name": "Gobbleygourd", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Feast-Ember", "element:Fire"]}
+{"name": "Hoola", "conditions": ["class:Seasonal", "subclass:Core", "element:SummerSong", "element:Earth"]}
+{"name": "Jam Boree", "conditions": ["class:Seasonal", "element:Anniversary Month"]}
+{"name": "Monculus", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Life-Formula"]}
+{"name": "Punkleton", "conditions": ["class:Seasonal", "subclass:Core", "element:Spooktacle", "element:Plant"]}
+{"name": "Schmoochle", "conditions": ["class:Seasonal", "subclass:Core", "element:Season of Love", "element:Air"]}
+{"name": "Spurrit", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Perplexplore", "element:Fire"]}
+{"name": "Viveine", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:Echoes of Eco", "element:Fire"]}
+{"name": "Whiz-bang", "conditions": ["class:Seasonal", "subclass:Auxiliary", "element:SkyPainting", "element:Light"]}
+{"name": "Yool", "conditions": ["class:Seasonal", "subclass:Core", "element:Festival of Yay", "element:Cold"]}
+{"name": "Glowbe", "conditions": ["class:Spectral"]}
+{"name": "Astropod", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Blipsqueak", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Bona-Petite", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Brump", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Creepuscule", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Dermit", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Dwumrohl", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Fleechwurm", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Gheegur", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Maulch", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Pixolotl", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Poewk", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Scargo", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Screemu", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Thwok", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Tympa", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Whajje", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Wubbox", "conditions": ["class:Supernatural", "subclass:Wubbox", "element:Electricity"]}
+{"name": "Zuuker", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Zynth", "conditions": ["class:Supernatural", "subclass:Wublin", "element:Electricity"]}
+{"name": "Cruv'laaphtian Crocus", "conditions": ["class:Titansoul", "element:Titansoul", "element:Psychic"]}
+{"name": "Faesoddoid Fungus", "conditions": ["class:Titansoul", "element:Titansoul", "element:Faerie"]}
+{"name": "Phosphoran Phlox", "conditions": ["class:Titansoul", "element:Titansoul", "element:Light"]}

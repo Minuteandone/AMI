@@ -1,0 +1,142 @@
+{
+  "island_name": "Fon Islao",
+  "primary_type": "zapping",
+  "seed_elements": [
+    "Hoax"
+  ],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "Fon Islao"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 20261122,
+  "monster_list": [
+    {
+      "name": "Wiwrn",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "ScTimrat",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Pulaster",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Fop",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Solete",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Stahi",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Floode",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Crehoa Muly",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Roo'y",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "SzurIhe",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Vhaksqle",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Bleler",
+      "source": "generated_only",
+      "seed_element": "Hoax",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Hoax",
+        "element:Celestial"
+      ]
+    }
+  ],
+  "gimmicks": [],
+  "status": "entirely_ai_generated_experiment",
+  "zap_generation_style": "Celestial",
+  "monster_count": 12,
+  "generated_monster_count": 12
+}

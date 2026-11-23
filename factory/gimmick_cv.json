@@ -1,0 +1,52 @@
+{
+  "training_breeding_islands": 17,
+  "gimmicks": [
+    "Celestials",
+    "Dipsters",
+    "Ethereals",
+    "Fire monsters",
+    "Legendaries",
+    "Magicals",
+    "Mirror forms",
+    "Mythicals",
+    "Paironormals",
+    "Primordials",
+    "Seasonals",
+    "Shugafam",
+    "Titansouls",
+    "Werdos",
+    "Wubboxes",
+    "Wublins",
+    "bb$quad"
+  ],
+  "heldout_leave_one_island_out": {
+    "micro_f1": 0.5287,
+    "macro_f1": 0.2081,
+    "mean_absolute_error": 0.3234
+  },
+  "constant_prevalence_baseline": {
+    "micro_f1": 0.5989,
+    "macro_f1": 0.2221,
+    "mean_absolute_error": 0.3118
+  },
+  "positive_counts": {
+    "Celestials": 0,
+    "Dipsters": 13,
+    "Ethereals": 6,
+    "Fire monsters": 6,
+    "Legendaries": 9,
+    "Magicals": 5,
+    "Mirror forms": 4,
+    "Mythicals": 8,
+    "Paironormals": 4,
+    "Primordials": 0,
+    "Seasonals": 15,
+    "Shugafam": 2,
+    "Titansouls": 3,
+    "Werdos": 7,
+    "Wubboxes": 8,
+    "Wublins": 0,
+    "bb$quad": 2
+  },
+  "caveat": "Only released non-mirror breeding islands used in training; uncommon gimmicks have extremely few examples."
+}

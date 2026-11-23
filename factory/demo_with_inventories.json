@@ -1,0 +1,566 @@
+{
+  "island_name": "CS Island",
+  "primary_type": "zapping",
+  "seed_elements": [
+    "Fire"
+  ],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "CS Island"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 143,
+  "monster_list": [
+    {
+      "name": "Purumbh",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Fire",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Kuuk",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Fire",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Scuug",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Fire",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Kinz",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Fire",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Floordeaveir",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Fire",
+        "element:Celestial"
+      ]
+    },
+    {
+      "name": "Vhisp",
+      "source": "generated_only",
+      "seed_element": "Fire",
+      "generator_conditions": [
+        "class:Celestial",
+        "element:Fire",
+        "element:Celestial"
+      ]
+    }
+  ],
+  "gimmicks": [],
+  "status": "entirely_ai_generated_experiment",
+  "zap_generation_style": "Celestial",
+  "monster_count": 6,
+  "generated_monster_count": 6,
+  "egg_inventories": {
+    "Purumbh": {
+      "monster": "Purumbh",
+      "style": "celestial",
+      "egg_types": 16,
+      "total_eggs": 125,
+      "requirements": [
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 31
+        },
+        {
+          "egg": "Quibble",
+          "egg_id": 8,
+          "required": 25
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 19
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 13
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 5
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 5
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 5
+        },
+        {
+          "egg": "Entbrat",
+          "egg_id": 29,
+          "required": 4
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 3
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 3
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 3
+        },
+        {
+          "egg": "Kayna",
+          "egg_id": 262,
+          "required": 2
+        },
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 2
+        },
+        {
+          "egg": "Pummel",
+          "egg_id": 21,
+          "required": 2
+        },
+        {
+          "egg": "Scups",
+          "egg_id": 31,
+          "required": 2
+        },
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Kuuk": {
+      "monster": "Kuuk",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 214,
+      "requirements": [
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 78
+        },
+        {
+          "egg": "Shellbeat",
+          "egg_id": 25,
+          "required": 28
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 27
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 22
+        },
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 20
+        },
+        {
+          "egg": "Deedge",
+          "egg_id": 27,
+          "required": 13
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 5
+        },
+        {
+          "egg": "Entbrat",
+          "egg_id": 29,
+          "required": 4
+        },
+        {
+          "egg": "Scups",
+          "egg_id": 31,
+          "required": 4
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 3
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 2
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 2
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 2
+        },
+        {
+          "egg": "Repatillo",
+          "egg_id": 274,
+          "required": 2
+        },
+        {
+          "egg": "Spunge",
+          "egg_id": 17,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Scuug": {
+      "monster": "Scuug",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 170,
+      "requirements": [
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 59
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 44
+        },
+        {
+          "egg": "Quibble",
+          "egg_id": 8,
+          "required": 16
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 9
+        },
+        {
+          "egg": "Clamble",
+          "egg_id": 22,
+          "required": 9
+        },
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 8
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 5
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 4
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 3
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 3
+        },
+        {
+          "egg": "Fwog",
+          "egg_id": 13,
+          "required": 2
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 2
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 2
+        },
+        {
+          "egg": "Riff",
+          "egg_id": 28,
+          "required": 2
+        },
+        {
+          "egg": "Shrubb",
+          "egg_id": 10,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Kinz": {
+      "monster": "Kinz",
+      "style": "celestial",
+      "egg_types": 10,
+      "total_eggs": 65,
+      "requirements": [
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 15
+        },
+        {
+          "egg": "Scups",
+          "egg_id": 31,
+          "required": 10
+        },
+        {
+          "egg": "Furcorn",
+          "egg_id": 12,
+          "required": 8
+        },
+        {
+          "egg": "Tweedle",
+          "egg_id": 1,
+          "required": 8
+        },
+        {
+          "egg": "Shellbeat",
+          "egg_id": 25,
+          "required": 6
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 5
+        },
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 4
+        },
+        {
+          "egg": "Repatillo",
+          "egg_id": 274,
+          "required": 4
+        },
+        {
+          "egg": "Drumpler",
+          "egg_id": 14,
+          "required": 3
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 2
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Floordeaveir": {
+      "monster": "Floordeaveir",
+      "style": "celestial",
+      "egg_types": 15,
+      "total_eggs": 162,
+      "requirements": [
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 47
+        },
+        {
+          "egg": "Cybop",
+          "egg_id": 7,
+          "required": 39
+        },
+        {
+          "egg": "Shrubb",
+          "egg_id": 10,
+          "required": 22
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 15
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 7
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 5
+        },
+        {
+          "egg": "Oaktopus",
+          "egg_id": 11,
+          "required": 5
+        },
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 5
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 4
+        },
+        {
+          "egg": "Repatillo",
+          "egg_id": 274,
+          "required": 3
+        },
+        {
+          "egg": "Spunge",
+          "egg_id": 17,
+          "required": 3
+        },
+        {
+          "egg": "Pango",
+          "egg_id": 9,
+          "required": 2
+        },
+        {
+          "egg": "PomPom",
+          "egg_id": 19,
+          "required": 2
+        },
+        {
+          "egg": "Pummel",
+          "egg_id": 21,
+          "required": 2
+        },
+        {
+          "egg": "Bowgart",
+          "egg_id": 23,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    },
+    "Vhisp": {
+      "monster": "Vhisp",
+      "style": "celestial",
+      "egg_types": 12,
+      "total_eggs": 48,
+      "requirements": [
+        {
+          "egg": "Potbelly",
+          "egg_id": 2,
+          "required": 13
+        },
+        {
+          "egg": "Dandidoo",
+          "egg_id": 6,
+          "required": 6
+        },
+        {
+          "egg": "Maw",
+          "egg_id": 15,
+          "required": 6
+        },
+        {
+          "egg": "Noggin",
+          "egg_id": 3,
+          "required": 6
+        },
+        {
+          "egg": "T-Rox",
+          "egg_id": 24,
+          "required": 5
+        },
+        {
+          "egg": "Mammott",
+          "egg_id": 5,
+          "required": 3
+        },
+        {
+          "egg": "Glowl",
+          "egg_id": 273,
+          "required": 2
+        },
+        {
+          "egg": "Reedling",
+          "egg_id": 16,
+          "required": 2
+        },
+        {
+          "egg": "Thumpies",
+          "egg_id": 18,
+          "required": 2
+        },
+        {
+          "egg": "Quarrister",
+          "egg_id": 26,
+          "required": 1
+        },
+        {
+          "egg": "Quibble",
+          "egg_id": 8,
+          "required": 1
+        },
+        {
+          "egg": "Toe Jammer",
+          "egg_id": 4,
+          "required": 1
+        }
+      ],
+      "training_reference_style": "celestial",
+      "generated": true,
+      "provenance": "statistically sampled from real-game-reference inventory patterns; NOT an official recipe"
+    }
+  },
+  "egg_inventory_generator": "empirical_conditional_inventory_sampler_v1"
+}

@@ -1,0 +1,263 @@
+{
+  "island_name": "Mir Island",
+  "primary_type": "breeding",
+  "seed_elements": [
+    "Plant",
+    "Cold",
+    "Bone",
+    "Fire"
+  ],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "Mir Island"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 8,
+  "monster_list": [
+    {
+      "name": "Potbelly",
+      "elements": [
+        "Plant"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Natural"
+    },
+    {
+      "name": "Mammott",
+      "elements": [
+        "Cold"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Natural"
+    },
+    {
+      "name": "Clackula",
+      "elements": [
+        "Bone"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Magical"
+    },
+    {
+      "name": "Kayna",
+      "elements": [
+        "Fire"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Fire"
+    },
+    {
+      "name": "Furcorn",
+      "elements": [
+        "Plant",
+        "Cold"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Natural"
+    },
+    {
+      "name": "Blaranul",
+      "elements": [
+        "Plant",
+        "Bone"
+      ],
+      "source": "generated_missing_combo",
+      "generator_conditions": [
+        "class:Magical",
+        "element:Plant",
+        "element:Bone"
+      ]
+    },
+    {
+      "name": "Flowah",
+      "elements": [
+        "Plant",
+        "Fire"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Fire"
+    },
+    {
+      "name": "Plat",
+      "elements": [
+        "Cold",
+        "Bone"
+      ],
+      "source": "generated_missing_combo",
+      "generator_conditions": [
+        "class:Magical",
+        "element:Cold",
+        "element:Bone"
+      ]
+    },
+    {
+      "name": "Boskus",
+      "elements": [
+        "Cold",
+        "Fire"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Fire"
+    },
+    {
+      "name": "Hawlo",
+      "elements": [
+        "Bone",
+        "Fire"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Magical"
+    },
+    {
+      "name": "Scurn",
+      "elements": [
+        "Plant",
+        "Cold",
+        "Bone"
+      ],
+      "source": "generated_missing_combo",
+      "generator_conditions": [
+        "class:Magical",
+        "element:Plant",
+        "element:Cold",
+        "element:Bone"
+      ]
+    },
+    {
+      "name": "Sooza",
+      "elements": [
+        "Plant",
+        "Cold",
+        "Fire"
+      ],
+      "source": "existing_official_element_combo",
+      "monster_class": "Fire"
+    },
+    {
+      "name": "Scuja",
+      "elements": [
+        "Plant",
+        "Bone",
+        "Fire"
+      ],
+      "source": "generated_missing_combo",
+      "generator_conditions": [
+        "class:Magical",
+        "element:Plant",
+        "element:Bone",
+        "element:Fire"
+      ]
+    },
+    {
+      "name": "Clanker",
+      "elements": [
+        "Cold",
+        "Bone",
+        "Fire"
+      ],
+      "source": "generated_missing_combo",
+      "generator_conditions": [
+        "class:Magical",
+        "element:Cold",
+        "element:Bone",
+        "element:Fire"
+      ]
+    },
+    {
+      "name": "Uodum",
+      "elements": [
+        "Plant",
+        "Cold",
+        "Bone",
+        "Fire"
+      ],
+      "source": "generated_missing_combo",
+      "generator_conditions": [
+        "class:Magical",
+        "element:Plant",
+        "element:Cold",
+        "element:Bone",
+        "element:Fire"
+      ]
+    },
+    {
+      "name": "Boo'qwurm",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Seasonals"
+    },
+    {
+      "name": "Spurrit",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Seasonals"
+    },
+    {
+      "name": "Bishop Mi",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Dipsters"
+    },
+    {
+      "name": "Re",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Dipsters"
+    },
+    {
+      "name": "Shugajo",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Legendaries"
+    },
+    {
+      "name": "bb$ynth",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Legendaries"
+    },
+    {
+      "name": "Sporerow",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Mythicals"
+    },
+    {
+      "name": "Knurv",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Mythicals"
+    },
+    {
+      "name": "Wubbox",
+      "source": "gimmick_existing_guest",
+      "gimmick": "Wubboxes"
+    }
+  ],
+  "gimmicks": [
+    "Seasonals",
+    "Dipsters",
+    "Legendaries",
+    "Mythicals",
+    "Wubboxes"
+  ],
+  "status": "entirely_ai_generated_experiment",
+  "gimmick_scores": {
+    "Seasonals": 0.9328,
+    "Dipsters": 0.8942,
+    "Legendaries": 0.77,
+    "Mythicals": 0.7236,
+    "Wubboxes": 0.721,
+    "Werdos": 0.7031,
+    "Ethereals": 0.6734,
+    "Fire monsters": 0.2142,
+    "Magicals": 0.1732,
+    "Mirror forms": 0.1665,
+    "Paironormals": 0.1665,
+    "Titansouls": 0.118,
+    "Shugafam": 0.0894,
+    "bb$quad": 0.0818,
+    "Celestials": 0.0,
+    "Primordials": 0.0,
+    "Wublins": 0.0
+  },
+  "core_breeding_slots": 15,
+  "supplementary_monsters": 9,
+  "mirror_form_enabled": false,
+  "monster_count": 24,
+  "generated_monster_count": 6
+}

@@ -1,0 +1,42 @@
+name,type,elements,gimmicks,roster_size,status,mirror,secondary_mechanics
+Air Island,breeding,Air | Water | Earth | Cold,Dipsters | Ethereals | Legendaries | Mythicals | Seasonals | Werdos | Wubboxes,39,source-backed-with-curation,False,
+Amber Island,zapping,Fire,Fire monsters | Seasonals,33,source-backed-with-curation,False,
+Bone Island,breeding,Plant | Water | Fire | Bone,Dipsters | Fire monsters | Magicals | Mirror forms | Paironormals | Seasonals,36,source-backed-with-curation,False,
+Celestial Island,zapping,Celestial,Celestials | Dipsters,15,source-backed-with-curation,False,
+Cold Island,breeding,Cold | Air | Water | Plant,Dipsters | Ethereals | Legendaries | Mythicals | Seasonals | Werdos | Wubboxes | bb$quad,38,source-backed-with-curation,False,
+Composer Island,teleporting,,Ethereals,32,source-backed-with-curation,False,
+Crystal Islet,teleporting,,Ethereals | Primordials,13,source-backed-with-curation,False,teleporting | dish_harmonization
+Earth Island,breeding,Earth | Cold | Air | Plant,Dipsters | Ethereals | Legendaries | Mythicals | Seasonals | Werdos | Wubboxes,37,source-backed-with-curation,False,
+Ethereal Island,breeding,Plasma | Shadow | Mech | Crystal | Poison,Dipsters | Ethereals | Seasonals | Wubboxes,33,source-backed-with-curation,False,teleporting
+Ethereal Workshop,teleporting,,Ethereals,17,source-backed-with-curation,False,synthesis
+Faerie Island,breeding,Air | Cold | Fire | Faerie,Dipsters | Fire monsters | Magicals | Mirror forms | Paironormals | Seasonals | Titansouls,37,source-backed-with-curation,False,
+Fire Haven,breeding,Plant | Earth | Cold | Fire,Dipsters | Fire monsters | Legendaries | Mythicals | Seasonals | Werdos | Wubboxes,36,source-backed-with-curation,False,
+Fire Oasis,breeding,Air | Water | Cold | Fire,Dipsters | Fire monsters | Mythicals | Seasonals | Wubboxes,36,source-backed-with-curation,False,
+Gold Island,teleporting,,Legendaries | Seasonals | Shugafam | Wubboxes,38,source-backed-with-curation,False,
+Light Island,breeding,Plant | Cold | Fire | Light,Dipsters | Fire monsters | Magicals | Mirror forms | Paironormals | Seasonals | Titansouls,37,source-backed-with-curation,False,
+Magical Nexus,teleporting,,Magicals,32,source-backed-with-curation,False,transposition
+Magical Sanctum,breeding,Light | Psychic | Faerie | Bone,Dipsters | Magicals | Seasonals,32,source-backed-with-curation,False,teleporting
+Mech Islet,teleporting,,Ethereals | Primordials,13,source-backed-with-curation,False,teleporting | dish_harmonization
+Mirror Air Island,breeding,Air | Water | Earth | Cold,Dipsters | Ethereals | Legendaries | Mirror forms | Mythicals | Seasonals | Werdos | Wubboxes,39,source-backed-with-curation,True,
+Mirror Bone Island,breeding,Plant | Water | Fire | Bone,Dipsters | Fire monsters | Magicals | Mirror forms | Paironormals | Seasonals,36,source-backed-with-curation,True,
+Mirror Cold Island,breeding,Cold | Air | Water | Plant,Dipsters | Ethereals | Legendaries | Mirror forms | Mythicals | Seasonals | Werdos | Wubboxes | bb$quad,38,source-backed-with-curation,True,
+Mirror Earth Island,breeding,Earth | Cold | Air | Plant,Dipsters | Ethereals | Legendaries | Mirror forms | Mythicals | Seasonals | Werdos | Wubboxes,37,source-backed-with-curation,True,
+Mirror Faerie Island,breeding,Air | Cold | Fire | Faerie,Dipsters | Fire monsters | Magicals | Mirror forms | Paironormals | Seasonals | Titansouls,37,source-backed-with-curation,True,
+Mirror Light Island,breeding,Plant | Cold | Fire | Light,Dipsters | Fire monsters | Magicals | Mirror forms | Paironormals | Seasonals | Titansouls,37,source-backed-with-curation,True,
+Mirror Plant Island,breeding,Plant | Cold | Water | Earth,Dipsters | Ethereals | Legendaries | Mirror forms | Mythicals | Seasonals | Shugafam | Werdos | Wubboxes,38,source-backed-with-curation,True,
+Mirror Psychic Island,breeding,Water | Earth | Fire | Psychic,Dipsters | Fire monsters | Legendaries | Magicals | Mirror forms | Paironormals | Seasonals | Titansouls | Werdos,38,source-backed-with-curation,True,
+Mirror Water Island,breeding,Water | Plant | Earth | Air,Dipsters | Ethereals | Legendaries | Mirror forms | Mythicals | Seasonals | Werdos | Wubboxes,38,source-backed-with-curation,True,
+Mythical Island,breeding,Mythical | Dream,Mythicals,16,source-backed-with-curation,False,teleporting
+Paironormal Carnival,teleporting,,Mirror forms | Paironormals,15,source-backed-with-curation,False,transposition
+Plant Island,breeding,Plant | Cold | Water | Earth,Dipsters | Ethereals | Legendaries | Mythicals | Seasonals | Shugafam | Werdos | Wubboxes,38,source-backed-with-curation,False,
+Plasma Islet,teleporting,,Ethereals | Primordials,13,source-backed-with-curation,False,teleporting | dish_harmonization
+Poison Islet,teleporting,,Ethereals | Primordials,14,projected,False,teleporting | dish_harmonization
+Psychic Island,breeding,Water | Earth | Fire | Psychic,Dipsters | Fire monsters | Legendaries | Magicals | Mirror forms | Paironormals | Seasonals | Titansouls | Werdos,38,source-backed-with-curation,False,
+Seasonal Shanty,breeding,Spooktacle | Festival of Yay | Season of Love | Eggs-Travaganza | SummerSong,Seasonals,15,source-backed-with-curation,False,teleporting
+Shadow Islet,teleporting,,Ethereals | Primordials,13,source-backed-with-curation,False,teleporting | dish_harmonization
+Shugabush Island,breeding,Plant | Legendary,Legendaries | Seasonals | Shugafam,17,source-backed-with-curation,False,teleporting
+The Colossingum,teleporting,,Ethereals | Seasonals,50,source-backed-with-curation,False,level_transfer
+Tribal Island,teleporting,,Fire monsters,31,source-backed-with-curation,False,
+Water Island,breeding,Water | Plant | Earth | Air,Dipsters | Ethereals | Legendaries | Mythicals | Seasonals | Werdos | Wubboxes,38,source-backed-with-curation,False,
+Wublin Island,zapping,Electricity,Seasonals | Wubboxes | Wublins,22,source-backed-with-curation,False,
+bbli$zard Island,breeding,Cold | Legendary,Legendaries | bb$quad,15,source-backed-with-curation,False,

@@ -1,0 +1,167 @@
+island,monster,style,egg,egg_id,quantity
+Hoax Cosmos,Wiwrn,celestial,PomPom,19,22
+Hoax Cosmos,Wiwrn,celestial,Thumpies,18,21
+Hoax Cosmos,Wiwrn,celestial,Furcorn,12,15
+Hoax Cosmos,Wiwrn,celestial,Oaktopus,11,14
+Hoax Cosmos,Wiwrn,celestial,Quarrister,26,13
+Hoax Cosmos,Wiwrn,celestial,Maw,15,9
+Hoax Cosmos,Wiwrn,celestial,Potbelly,2,6
+Hoax Cosmos,Wiwrn,celestial,Bowgart,23,4
+Hoax Cosmos,Wiwrn,celestial,T-Rox,24,4
+Hoax Cosmos,Wiwrn,celestial,Flowah,272,3
+Hoax Cosmos,Wiwrn,celestial,Pummel,21,3
+Hoax Cosmos,Wiwrn,celestial,Spunge,17,3
+Hoax Cosmos,Wiwrn,celestial,Entbrat,29,2
+Hoax Cosmos,Wiwrn,celestial,Fwog,13,2
+Hoax Cosmos,Wiwrn,celestial,Deedge,27,1
+Hoax Cosmos,ScTimrat,celestial,Toe Jammer,4,45
+Hoax Cosmos,ScTimrat,celestial,Mammott,5,30
+Hoax Cosmos,ScTimrat,celestial,Quibble,8,29
+Hoax Cosmos,ScTimrat,celestial,Thumpies,18,15
+Hoax Cosmos,ScTimrat,celestial,Cybop,7,14
+Hoax Cosmos,ScTimrat,celestial,Furcorn,12,7
+Hoax Cosmos,ScTimrat,celestial,Dandidoo,6,6
+Hoax Cosmos,ScTimrat,celestial,Oaktopus,11,5
+Hoax Cosmos,ScTimrat,celestial,Clamble,22,4
+Hoax Cosmos,ScTimrat,celestial,Congle,20,3
+Hoax Cosmos,ScTimrat,celestial,Fwog,13,2
+Hoax Cosmos,ScTimrat,celestial,Glowl,273,2
+Hoax Cosmos,ScTimrat,celestial,Reedling,16,2
+Hoax Cosmos,ScTimrat,celestial,Noggin,3,1
+Hoax Cosmos,Pulaster,celestial,Bowgart,23,78
+Hoax Cosmos,Pulaster,celestial,Reedling,16,21
+Hoax Cosmos,Pulaster,celestial,Tweedle,1,15
+Hoax Cosmos,Pulaster,celestial,Kayna,262,13
+Hoax Cosmos,Pulaster,celestial,T-Rox,24,11
+Hoax Cosmos,Pulaster,celestial,Thumpies,18,11
+Hoax Cosmos,Pulaster,celestial,Fwog,13,8
+Hoax Cosmos,Pulaster,celestial,Oaktopus,11,8
+Hoax Cosmos,Pulaster,celestial,Entbrat,29,6
+Hoax Cosmos,Pulaster,celestial,Furcorn,12,5
+Hoax Cosmos,Pulaster,celestial,Clamble,22,4
+Hoax Cosmos,Pulaster,celestial,Drumpler,14,4
+Hoax Cosmos,Pulaster,celestial,Spunge,17,3
+Hoax Cosmos,Pulaster,celestial,Congle,20,2
+Hoax Cosmos,Pulaster,celestial,Deedge,27,2
+Hoax Cosmos,Pulaster,celestial,Floogull,261,2
+Hoax Cosmos,Pulaster,celestial,PomPom,19,2
+Hoax Cosmos,Fop,celestial,Toe Jammer,4,54
+Hoax Cosmos,Fop,celestial,Quibble,8,29
+Hoax Cosmos,Fop,celestial,Floogull,261,19
+Hoax Cosmos,Fop,celestial,Bowgart,23,9
+Hoax Cosmos,Fop,celestial,Glowl,273,8
+Hoax Cosmos,Fop,celestial,Oaktopus,11,8
+Hoax Cosmos,Fop,celestial,Pummel,21,8
+Hoax Cosmos,Fop,celestial,Dandidoo,6,7
+Hoax Cosmos,Fop,celestial,Spunge,17,6
+Hoax Cosmos,Fop,celestial,PomPom,19,4
+Hoax Cosmos,Fop,celestial,Cybop,7,2
+Hoax Cosmos,Fop,celestial,Noggin,3,2
+Hoax Cosmos,Fop,celestial,T-Rox,24,2
+Hoax Cosmos,Fop,celestial,Thumpies,18,2
+Hoax Cosmos,Fop,celestial,Furcorn,12,1
+Hoax Cosmos,Solete,celestial,Deedge,27,59
+Hoax Cosmos,Solete,celestial,Furcorn,12,12
+Hoax Cosmos,Solete,celestial,Potbelly,2,9
+Hoax Cosmos,Solete,celestial,Stogg,263,9
+Hoax Cosmos,Solete,celestial,Reedling,16,5
+Hoax Cosmos,Solete,celestial,Quibble,8,4
+Hoax Cosmos,Solete,celestial,Floogull,261,3
+Hoax Cosmos,Solete,celestial,Maw,15,3
+Hoax Cosmos,Solete,celestial,PomPom,19,3
+Hoax Cosmos,Solete,celestial,Toe Jammer,4,3
+Hoax Cosmos,Solete,celestial,Clamble,22,2
+Hoax Cosmos,Solete,celestial,Shrubb,10,2
+Hoax Cosmos,Stahi,celestial,Flowah,272,32
+Hoax Cosmos,Stahi,celestial,Potbelly,2,31
+Hoax Cosmos,Stahi,celestial,Fwog,13,17
+Hoax Cosmos,Stahi,celestial,Thumpies,18,15
+Hoax Cosmos,Stahi,celestial,Tweedle,1,9
+Hoax Cosmos,Stahi,celestial,Mammott,5,6
+Hoax Cosmos,Stahi,celestial,Drumpler,14,5
+Hoax Cosmos,Stahi,celestial,Riff,28,4
+Hoax Cosmos,Stahi,celestial,Dandidoo,6,2
+Hoax Cosmos,Stahi,celestial,Glowl,273,2
+Hoax Cosmos,Stahi,celestial,Oaktopus,11,2
+Hoax Cosmos,Stahi,celestial,Repatillo,274,2
+Hoax Cosmos,Stahi,celestial,Shrubb,10,2
+Hoax Cosmos,Stahi,celestial,Spunge,17,2
+Hoax Cosmos,Stahi,celestial,Furcorn,12,1
+Hoax Cosmos,Floode,celestial,Kayna,262,15
+Hoax Cosmos,Floode,celestial,Drumpler,14,7
+Hoax Cosmos,Floode,celestial,Shrubb,10,5
+Hoax Cosmos,Floode,celestial,Pango,9,4
+Hoax Cosmos,Floode,celestial,T-Rox,24,3
+Hoax Cosmos,Floode,celestial,Congle,20,2
+Hoax Cosmos,Floode,celestial,Cybop,7,2
+Hoax Cosmos,Floode,celestial,Floogull,261,2
+Hoax Cosmos,Floode,celestial,Maw,15,2
+Hoax Cosmos,Floode,celestial,PomPom,19,2
+Hoax Cosmos,Floode,celestial,Thumpies,18,2
+Hoax Cosmos,Floode,celestial,Oaktopus,11,1
+Hoax Cosmos,Crehoa Muly,celestial,Noggin,3,28
+Hoax Cosmos,Crehoa Muly,celestial,Mammott,5,10
+Hoax Cosmos,Crehoa Muly,celestial,Furcorn,12,8
+Hoax Cosmos,Crehoa Muly,celestial,Potbelly,2,7
+Hoax Cosmos,Crehoa Muly,celestial,Bowgart,23,6
+Hoax Cosmos,Crehoa Muly,celestial,Clamble,22,3
+Hoax Cosmos,Crehoa Muly,celestial,Entbrat,29,3
+Hoax Cosmos,Crehoa Muly,celestial,Flowah,272,2
+Hoax Cosmos,Crehoa Muly,celestial,Maw,15,2
+Hoax Cosmos,Crehoa Muly,celestial,Toe Jammer,4,2
+Hoax Cosmos,Roo'y,celestial,PomPom,19,45
+Hoax Cosmos,Roo'y,celestial,Toe Jammer,4,26
+Hoax Cosmos,Roo'y,celestial,Barrb,268,22
+Hoax Cosmos,Roo'y,celestial,Bowgart,23,18
+Hoax Cosmos,Roo'y,celestial,Potbelly,2,9
+Hoax Cosmos,Roo'y,celestial,Mammott,5,7
+Hoax Cosmos,Roo'y,celestial,Congle,20,4
+Hoax Cosmos,Roo'y,celestial,Pango,9,4
+Hoax Cosmos,Roo'y,celestial,Reedling,16,4
+Hoax Cosmos,Roo'y,celestial,Shellbeat,25,4
+Hoax Cosmos,Roo'y,celestial,Tweedle,1,4
+Hoax Cosmos,Roo'y,celestial,Dandidoo,6,3
+Hoax Cosmos,Roo'y,celestial,Furcorn,12,2
+Hoax Cosmos,Roo'y,celestial,T-Rox,24,2
+Hoax Cosmos,Roo'y,celestial,Deedge,27,1
+Hoax Cosmos,Roo'y,celestial,Scups,31,1
+Hoax Cosmos,SzurIhe,celestial,Potbelly,2,19
+Hoax Cosmos,SzurIhe,celestial,Toe Jammer,4,19
+Hoax Cosmos,SzurIhe,celestial,Maw,15,13
+Hoax Cosmos,SzurIhe,celestial,Oaktopus,11,8
+Hoax Cosmos,SzurIhe,celestial,Quarrister,26,6
+Hoax Cosmos,SzurIhe,celestial,Cybop,7,5
+Hoax Cosmos,SzurIhe,celestial,Pummel,21,4
+Hoax Cosmos,SzurIhe,celestial,Scups,31,4
+Hoax Cosmos,SzurIhe,celestial,Bowgart,23,3
+Hoax Cosmos,SzurIhe,celestial,Riff,28,3
+Hoax Cosmos,SzurIhe,celestial,Congle,20,2
+Hoax Cosmos,SzurIhe,celestial,Dandidoo,6,2
+Hoax Cosmos,SzurIhe,celestial,Fwog,13,2
+Hoax Cosmos,SzurIhe,celestial,Pango,9,2
+Hoax Cosmos,SzurIhe,celestial,Thumpies,18,2
+Hoax Cosmos,Vhaksqle,celestial,Pango,9,10
+Hoax Cosmos,Vhaksqle,celestial,Bowgart,23,5
+Hoax Cosmos,Vhaksqle,celestial,Deedge,27,5
+Hoax Cosmos,Vhaksqle,celestial,Maw,15,3
+Hoax Cosmos,Vhaksqle,celestial,Reedling,16,3
+Hoax Cosmos,Vhaksqle,celestial,Cybop,7,2
+Hoax Cosmos,Vhaksqle,celestial,Glowl,273,2
+Hoax Cosmos,Vhaksqle,celestial,Repatillo,274,2
+Hoax Cosmos,Vhaksqle,celestial,Clamble,22,1
+Hoax Cosmos,Vhaksqle,celestial,Fwog,13,1
+Hoax Cosmos,Bleler,celestial,T-Rox,24,60
+Hoax Cosmos,Bleler,celestial,Toe Jammer,4,55
+Hoax Cosmos,Bleler,celestial,Shrubb,10,32
+Hoax Cosmos,Bleler,celestial,Tweedle,1,10
+Hoax Cosmos,Bleler,celestial,Drumpler,14,8
+Hoax Cosmos,Bleler,celestial,Noggin,3,7
+Hoax Cosmos,Bleler,celestial,Kayna,262,6
+Hoax Cosmos,Bleler,celestial,Scups,31,6
+Hoax Cosmos,Bleler,celestial,Barrb,268,4
+Hoax Cosmos,Bleler,celestial,Deedge,27,4
+Hoax Cosmos,Bleler,celestial,Oaktopus,11,4
+Hoax Cosmos,Bleler,celestial,Shellbeat,25,3
+Hoax Cosmos,Bleler,celestial,Congle,20,2
+Hoax Cosmos,Bleler,celestial,Dandidoo,6,2
+Hoax Cosmos,Bleler,celestial,Clamble,22,1

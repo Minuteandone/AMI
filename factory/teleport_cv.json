@@ -1,0 +1,52 @@
+{
+  "training_islands": 11,
+  "pairs": 2893,
+  "positives": 267,
+  "prevalence": 0.0923,
+  "heldout_island_cv": [
+    {
+      "fold": 0,
+      "islands_held_out": [
+        "Ethereal Workshop",
+        "Paironormal Carnival",
+        "Tribal Island"
+      ],
+      "average_precision": 0.294,
+      "prevalence": 0.0798
+    },
+    {
+      "fold": 1,
+      "islands_held_out": [
+        "Crystal Islet",
+        "Mech Islet",
+        "The Colossingum"
+      ],
+      "average_precision": 0.2588,
+      "prevalence": 0.0963
+    },
+    {
+      "fold": 2,
+      "islands_held_out": [
+        "Composer Island",
+        "Magical Nexus",
+        "Shadow Islet"
+      ],
+      "average_precision": 0.2333,
+      "prevalence": 0.0976
+    },
+    {
+      "fold": 3,
+      "islands_held_out": [
+        "Gold Island",
+        "Plasma Islet"
+      ],
+      "average_precision": 0.3053,
+      "prevalence": 0.097
+    }
+  ],
+  "out_of_fold_AP": 0.2556,
+  "frequency_baseline_AP": 0.0923,
+  "chosen_threshold": 0.55,
+  "out_of_fold_micro_f1": 0.3965,
+  "caveat": "For completely invented islands, generalization is highly uncertain. Does not learn actual teleport mechanics."
+}

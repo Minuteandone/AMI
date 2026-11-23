@@ -1,0 +1,79 @@
+{
+  "version": "v4-main-game",
+  "source": "https://www.jetpunk.com/user-quizzes/1629255/all-monsters-in-my-singing-monsters-by-island",
+  "source_updated": "2026-10-29 as retrieved",
+  "changes": [
+    "Excluded DoF-only islands: Cave Island, Cloud Island, Party Island, Space Island, Starhenge, The Continent, Wanderer Island",
+    "Added Special Dipsters by matching base Dipster island rosters",
+    "Sol-stice and Superno-Fa on Celestial Island only",
+    "Poison Islet projected roster excludes non-native quads Pentumbra, Rhysmuth, Vhenshun (Oogiddy only quad)"
+  ],
+  "scope": "Original My Singing Monsters only; 7 Dawn of Fire-only islands excluded; nine mirror targets copied from base island labels",
+  "islands": 41,
+  "released_islands_in_labels": 40,
+  "monsters_total": 263,
+  "monsters_with_any_labels": 263,
+  "source_supported_monsters": 253,
+  "inferred_only_monsters": [
+    "Aquatic Fa",
+    "Bishop Mi",
+    "King Do",
+    "Knight Fa",
+    "Queen Re",
+    "Sol-stice",
+    "Terrene Sol",
+    "Vitreous Ti",
+    "Waxen La",
+    "Tunefor"
+  ],
+  "unknown_names": [],
+  "unknown_source_names": {},
+  "total_pairs_including_mirrors": 1227,
+  "poison_islet": {
+    "release_status": "unreleased",
+    "roster_status": "predicted_not_confirmed",
+    "rule": "Poison-element monsters except the three non-native quads Pentumbra, Rhysmuth, Vhenshun, plus Tunefor; Oogiddy is the native quad",
+    "monster_count": 14,
+    "monsters": [
+      "Auglur",
+      "BeMeebEth",
+      "Blarret",
+      "Dragong",
+      "Flasque",
+      "Fung Pray",
+      "Humbug",
+      "Jellbilly",
+      "Kazilleon",
+      "Oogiddy",
+      "Piplash",
+      "Teeter-Tauter",
+      "Tunefor",
+      "X'rt"
+    ]
+  },
+  "dipster_inheritance": {
+    "Aquatic Fa": "Fa",
+    "Terrene Sol": "Sol",
+    "Waxen La": "La",
+    "Vitreous Ti": "Ti",
+    "King Do": "Do",
+    "Queen Re": "Re",
+    "Bishop Mi": "Mi",
+    "Knight Fa": "Fa"
+  },
+  "astral_dipsters": [
+    "Superno-Fa",
+    "Sol-stice"
+  ],
+  "original_community_roster_transcription": "https://www.jetpunk.com/user-quizzes/1629255/all-monsters-in-my-singing-monsters-by-island",
+  "excluded_dawn_of_fire_islands": [
+    "Cave Island",
+    "Cloud Island",
+    "Party Island",
+    "Space Island",
+    "Starhenge",
+    "The Continent",
+    "Wanderer Island"
+  ],
+  "note": "Train with projected labels only when explicitly intended; these are not verified game placements."
+}

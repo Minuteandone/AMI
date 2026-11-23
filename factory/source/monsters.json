@@ -1,0 +1,7985 @@
+[
+  {
+    "name": "Attmoz",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Air"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Air"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "Blasoom",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Plant"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Furnoss",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Fire"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Galvana",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Electricity"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Electricity"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Glaishur",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Cold"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Hornacle",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Water"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Loodvigg",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Shadow"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Shadow"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Shadow"
+    ]
+  },
+  {
+    "name": "Plixie",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Plasma"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Plasma"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Plasma"
+    ]
+  },
+  {
+    "name": "Scaratar",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Poison"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Poison"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Syncopite",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Crystal"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Crystal"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Torrt",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Earth"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Earth"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Vhamp",
+    "monster_class": "Celestial",
+    "subclass": null,
+    "official_elements": [
+      "Celestial"
+    ],
+    "associated_elements": [
+      "Mech"
+    ],
+    "training_elements": [
+      "Celestial",
+      "Mech"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes",
+      "dof"
+    ],
+    "conditions": [
+      "class:Celestial",
+      "element:Celestial",
+      "element:Mech"
+    ]
+  },
+  {
+    "name": "Aquatic Fa",
+    "monster_class": "Dipster",
+    "subclass": "Elemental",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Dipster",
+      "Water"
+    ],
+    "theme_island": "Water Island",
+    "also_in_dawn_of_fire": false,
+    "status": "announced_or_in_game_data",
+    "notes": "Availability reported as November 25 by community database; update added November 18.",
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "aquatic"
+    ],
+    "note": "Fa",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Elemental",
+      "element:Dipster",
+      "element:Water",
+      "note:Fa"
+    ]
+  },
+  {
+    "name": "Bishop Mi",
+    "monster_class": "Dipster",
+    "subclass": "Royal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Mi",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Royal",
+      "element:Dipster",
+      "note:Mi"
+    ]
+  },
+  {
+    "name": "Do",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Do",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:Do"
+    ]
+  },
+  {
+    "name": "Fa",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Fa",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:Fa"
+    ]
+  },
+  {
+    "name": "King Do",
+    "monster_class": "Dipster",
+    "subclass": "Royal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Do",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Royal",
+      "element:Dipster",
+      "note:Do"
+    ]
+  },
+  {
+    "name": "Knight Fa",
+    "monster_class": "Dipster",
+    "subclass": "Royal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "announced_or_in_game_data",
+    "notes": "Availability reported as November 25 by community database; update added November 18.",
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "knight"
+    ],
+    "note": "Fa",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Royal",
+      "element:Dipster",
+      "note:Fa"
+    ]
+  },
+  {
+    "name": "La",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "La",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:La"
+    ]
+  },
+  {
+    "name": "Mi",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Mi",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:Mi"
+    ]
+  },
+  {
+    "name": "Queen Re",
+    "monster_class": "Dipster",
+    "subclass": "Royal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Re",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Royal",
+      "element:Dipster",
+      "note:Re"
+    ]
+  },
+  {
+    "name": "Re",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Re",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:Re"
+    ]
+  },
+  {
+    "name": "Sol",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Sol",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:Sol"
+    ]
+  },
+  {
+    "name": "Sol-stice",
+    "monster_class": "Dipster",
+    "subclass": "Astral",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [
+      "Celestial"
+    ],
+    "training_elements": [
+      "Dipster",
+      "Celestial"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": false,
+    "status": "announced_or_in_game_data",
+    "notes": "Availability reported as November 25 by community database; update added November 18.",
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "solstice"
+    ],
+    "note": "Sol",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Astral",
+      "element:Dipster",
+      "element:Celestial",
+      "note:Sol"
+    ]
+  },
+  {
+    "name": "Superno-Fa",
+    "monster_class": "Dipster",
+    "subclass": "Astral",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [
+      "Celestial"
+    ],
+    "training_elements": [
+      "Dipster",
+      "Celestial"
+    ],
+    "theme_island": "Celestial Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "elements"
+    ],
+    "note": "Fa",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Astral",
+      "element:Dipster",
+      "element:Celestial",
+      "note:Fa"
+    ]
+  },
+  {
+    "name": "Terrene Sol",
+    "monster_class": "Dipster",
+    "subclass": "Elemental",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [
+      "Earth"
+    ],
+    "training_elements": [
+      "Dipster",
+      "Earth"
+    ],
+    "theme_island": "Earth Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Island theme inferred from design and community descriptions.",
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "dipster_theme"
+    ],
+    "note": "Sol",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Elemental",
+      "element:Dipster",
+      "element:Earth",
+      "note:Sol"
+    ]
+  },
+  {
+    "name": "Ti",
+    "monster_class": "Dipster",
+    "subclass": "Tonal",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dipster"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster"
+    ],
+    "note": "Ti",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Tonal",
+      "element:Dipster",
+      "note:Ti"
+    ]
+  },
+  {
+    "name": "Vitreous Ti",
+    "monster_class": "Dipster",
+    "subclass": "Elemental",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Dipster",
+      "Fire"
+    ],
+    "theme_island": "Fire Oasis",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Island theme inferred from design and community descriptions.",
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "dipster_theme"
+    ],
+    "note": "Ti",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Elemental",
+      "element:Dipster",
+      "element:Fire",
+      "note:Ti"
+    ]
+  },
+  {
+    "name": "Waxen La",
+    "monster_class": "Dipster",
+    "subclass": "Elemental",
+    "official_elements": [
+      "Dipster"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Dipster",
+      "Fire"
+    ],
+    "theme_island": "Fire Haven",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Island theme inferred from design and community descriptions.",
+    "source_ids": [
+      "roster",
+      "current",
+      "dipster",
+      "dipster_theme"
+    ],
+    "note": "La",
+    "conditions": [
+      "class:Dipster",
+      "subclass:Elemental",
+      "element:Dipster",
+      "element:Fire",
+      "note:La"
+    ]
+  },
+  {
+    "name": "Ghazt",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma"
+    ]
+  },
+  {
+    "name": "Grumpyre",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow"
+    ]
+  },
+  {
+    "name": "Humbug",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Jeeode",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Reebro",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Mech"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Mech"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Mech"
+    ]
+  },
+  {
+    "name": "Arackulele",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Mech"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Mech"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Mech"
+    ]
+  },
+  {
+    "name": "Bellowfish",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Mech",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Mech",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Mech",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Boodoo",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Dragong",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Mech",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Mech",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Mech",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Fung Pray",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Jellbilly",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Kazilleon",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Nebulob",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Mech"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Mech"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Mech"
+    ]
+  },
+  {
+    "name": "Sox",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Whisp",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow"
+    ]
+  },
+  {
+    "name": "Auglur",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Mech",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Mech",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Mech",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Blarret",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Flasque",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Gaddzooks",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Mech",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Mech",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Mech",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Meebkin",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Nitebear",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Mech",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Mech",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Mech",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "Piplash",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Mech",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Mech",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Mech",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Teeter-Tauter",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Mech",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "X'rt",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Yooreek",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Mech"
+    ]
+  },
+  {
+    "name": "Oogiddy",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Shadow",
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Shadow",
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Shadow",
+      "element:Mech",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Pentumbra",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Rhysmuth",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Mech",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Vhenshun",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Mech",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Whaill",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech",
+      "Crystal"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech",
+      "Crystal"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Mech",
+      "element:Crystal"
+    ]
+  },
+  {
+    "name": "BeMeebEth",
+    "monster_class": "Ethereal",
+    "subclass": null,
+    "official_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plasma",
+      "Shadow",
+      "Mech",
+      "Crystal",
+      "Poison"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "ethereal",
+      "elements"
+    ],
+    "conditions": [
+      "class:Ethereal",
+      "element:Plasma",
+      "element:Shadow",
+      "element:Mech",
+      "element:Crystal",
+      "element:Poison"
+    ]
+  },
+  {
+    "name": "Kayna",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Boskus",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Flowah",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Glowl",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Phangler",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Stogg",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Earth",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Barrb",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Floogull",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Earth",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Repatillo",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Earth",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Rootitoot",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Sooza",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Thrumble",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Earth",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Whaddle",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Woolabee",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Wynq",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Ziggurab",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Earth",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Bisonorus",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Edamimi",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Earth",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Flum Ox",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Earth",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Incisaur",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Krillby",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Earth",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "PongPing",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Earth",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Sneyser",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Tiawa",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Earth",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Tring",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Earth",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Yelmut",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Bowhead",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Candelavra",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Water",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Earth",
+      "element:Water",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Drummidary",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Plant",
+      "element:Earth",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Gnarls",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Plant",
+      "element:Earth",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Tuskski",
+    "monster_class": "Fire",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Water",
+      "Cold",
+      "Fire"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Fire",
+      "element:Air",
+      "element:Earth",
+      "element:Water",
+      "element:Cold",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Alcordion",
+    "monster_class": "Legendary",
+    "subclass": null,
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Air"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Air"
+    ],
+    "theme_island": "Air Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Specific official subclass not confirmed; guest star is descriptive metadata.",
+    "source_ids": [
+      "roster",
+      "current"
+    ],
+    "guest_star": true,
+    "conditions": [
+      "class:Legendary",
+      "element:Legendary",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "AnomaLee",
+    "monster_class": "Legendary",
+    "subclass": "Werdo",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Legendary"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "update",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Werdo",
+      "element:Legendary"
+    ]
+  },
+  {
+    "name": "bb$enior",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bb$ervo",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bb$inistr",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bb$kinbash",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bb$ynth",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bbdek$tr",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bbjunior$",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "bbli$zard",
+    "monster_class": "Legendary",
+    "subclass": "bb$quad",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from bbli$zard.",
+    "source_ids": [
+      "roster",
+      "current",
+      "update"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:bb$quad",
+      "element:Legendary",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Charrkoll",
+    "monster_class": "Legendary",
+    "subclass": "Werdo",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Legendary"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "update",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Werdo",
+      "element:Legendary"
+    ]
+  },
+  {
+    "name": "Maggpi",
+    "monster_class": "Legendary",
+    "subclass": "Werdo",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Legendary"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "update",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Werdo",
+      "element:Legendary"
+    ]
+  },
+  {
+    "name": "Parlsona",
+    "monster_class": "Legendary",
+    "subclass": "Werdo",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Legendary"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "update",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Werdo",
+      "element:Legendary"
+    ]
+  },
+  {
+    "name": "Shugabass",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugabeats",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugabush",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugabuzz",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugajo",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugarock",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugavox",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Shugitar",
+    "monster_class": "Legendary",
+    "subclass": "Shugafam",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Family association inherited from Shugabush.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Shugafam",
+      "element:Legendary",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Stoowarb",
+    "monster_class": "Legendary",
+    "subclass": "Werdo",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Legendary"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "update",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Werdo",
+      "element:Legendary"
+    ]
+  },
+  {
+    "name": "T-Pirainha",
+    "monster_class": "Legendary",
+    "subclass": null,
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Legendary",
+      "Water"
+    ],
+    "theme_island": "Water Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Lyriqal Legendary is a bio title; official subclass not confirmed. Autotuna is a stage name, not a second species.",
+    "source_ids": [
+      "roster",
+      "current",
+      "tp"
+    ],
+    "guest_star": true,
+    "conditions": [
+      "class:Legendary",
+      "element:Legendary",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Tawkerr",
+    "monster_class": "Legendary",
+    "subclass": "Werdo",
+    "official_elements": [
+      "Legendary"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Legendary"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "update",
+      "classes"
+    ],
+    "conditions": [
+      "class:Legendary",
+      "subclass:Werdo",
+      "element:Legendary"
+    ]
+  },
+  {
+    "name": "Clackula",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Floot Fly",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Fluoress",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Theremind",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Bonkers",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Bulbo",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Cold",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Cold",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Cold",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Cahoot",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Denchuhs",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Water",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Déjà-Jin",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Gob",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Hawlo",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Fire",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Fire",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Fire",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "HippityHop",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Knucklehead",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Light",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Light",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Light",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Osstax",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Bone",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Bone",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Bone",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Peckidna",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Pluckbill",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Fire",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Fire",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Fire",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Poppette",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Water",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Roarick",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Bone",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Bone",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Bone",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Squot",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Cold",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Cold",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Cold",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Wimmzies",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Fire",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Fire",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Fire",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Xyster",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Yuggler",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Fire",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Fire",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Fire",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Banjaw",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Fire",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Fire",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Water",
+      "element:Fire",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Bridg-it",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Fire",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Fire",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Fire",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Cantorell",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Cold",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Cold",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Cold",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Clavi Gnat",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Cold",
+      "Fire",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Cold",
+      "Fire",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Cold",
+      "element:Fire",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Fiddlement",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Cold",
+      "Fire",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Cold",
+      "Fire",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Cold",
+      "element:Fire",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Frondley",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Light",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Light",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Light",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "G'day",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Bone",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Bone",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Bone",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Larvaluss",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Bone",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Bone",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Bone",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Mushaboom",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Bone",
+      "Light",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Bone",
+      "Light",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Bone",
+      "element:Light",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Periscorp",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Fire",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Fire",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Water",
+      "element:Fire",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Rooba",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Fire",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Fire",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Fire",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Spytrap",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Cold",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Cold",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Cold",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Tapricorn",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Water",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Water",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Water",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "TooToo",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Fire",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Fire",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Fire",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Uuduk",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Fire",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Fire",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Fire",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Withur",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Water",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Water",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Water",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Blow't",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Cold",
+      "Fire",
+      "Light"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Cold",
+      "Fire",
+      "Light"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Cold",
+      "element:Fire",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Enchantling",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Psychic",
+      "Bone",
+      "Light",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Psychic",
+      "Bone",
+      "Light",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Psychic",
+      "element:Bone",
+      "element:Light",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Gloptic",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Water",
+      "Fire",
+      "Psychic"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Water",
+      "Fire",
+      "Psychic"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Plant",
+      "element:Water",
+      "element:Fire",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Pladdie",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Cold",
+      "Fire",
+      "Faerie"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Cold",
+      "Fire",
+      "Faerie"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Cold",
+      "element:Fire",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Plinkajou",
+    "monster_class": "Magical",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Water",
+      "Fire",
+      "Bone"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Water",
+      "Fire",
+      "Bone"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "magical",
+      "elements"
+    ],
+    "conditions": [
+      "class:Magical",
+      "element:Earth",
+      "element:Water",
+      "element:Fire",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Anglow",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Water"
+    ],
+    "theme_island": "Water Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Buzzinga",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Fire"
+    ],
+    "theme_island": "Fire Haven",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Cataliszt",
+    "monster_class": "Mythical",
+    "subclass": "Dream Single",
+    "official_elements": [
+      "Dream"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Dream"
+    ],
+    "theme_island": "Mythical Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dream Single",
+      "element:Dream"
+    ]
+  },
+  {
+    "name": "Cherubble",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Fire"
+    ],
+    "theme_island": "Fire Oasis",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "G'joob",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Hyehehe",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Earth"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Earth"
+    ],
+    "theme_island": "Earth Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Strombonin",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Yawstrich",
+    "monster_class": "Mythical",
+    "subclass": "Core Mythical",
+    "official_elements": [
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Air"
+    ],
+    "training_elements": [
+      "Mythical",
+      "Air"
+    ],
+    "theme_island": "Air Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical",
+      "dof"
+    ],
+    "conditions": [
+      "class:Mythical",
+      "subclass:Core Mythical",
+      "element:Mythical",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "Bleatnik",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from G'joob. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "G'joob",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Cranchee",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from Strombonin. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "Strombonin",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Knurv",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Fire"
+    ],
+    "theme_island": "Fire Haven",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from Buzzinga. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "Buzzinga",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Pinghound",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Water"
+    ],
+    "theme_island": "Water Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from Anglow. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "Anglow",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "shLep",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Fire"
+    ],
+    "theme_island": "Fire Oasis",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from Cherubble. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "Cherubble",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Sporerow",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Air"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Air"
+    ],
+    "theme_island": "Air Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from Yawstrich. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "Yawstrich",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "Wheezel",
+    "monster_class": "Mythical",
+    "subclass": "Dreamythical",
+    "official_elements": [
+      "Dream",
+      "Mythical"
+    ],
+    "associated_elements": [
+      "Earth"
+    ],
+    "training_elements": [
+      "Dream",
+      "Mythical",
+      "Earth"
+    ],
+    "theme_island": "Earth Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Association inherited from Hyehehe. Actual home is Mythical Island.",
+    "source_ids": [
+      "roster",
+      "current",
+      "mythical"
+    ],
+    "corresponding_mythical": "Hyehehe",
+    "conditions": [
+      "class:Mythical",
+      "subclass:Dreamythical",
+      "element:Dream",
+      "element:Mythical",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Mammott",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Noggin",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Earth"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Potbelly",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Toe Jammer",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Tweedle",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "Cybop",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Dandidoo",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Drumpler",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Earth",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Furcorn",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Fwog",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Earth",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Maw",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Oaktopus",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Pango",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Quibble",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Shrubb",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Bowgart",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Clamble",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Earth",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Congle",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "PomPom",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Earth",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Pummel",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Earth",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Reedling",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Scups",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Earth",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Spunge",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "T-Rox",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Earth",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Thumpies",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Deedge",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Entbrat",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Plant",
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Plant",
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Plant",
+      "element:Earth",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Quarrister",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Earth",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Riff",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Earth",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Shellbeat",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Water"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Water"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Earth",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Mimic",
+    "monster_class": "Natural",
+    "subclass": null,
+    "official_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Air",
+      "Plant",
+      "Earth",
+      "Water",
+      "Cold"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "elements",
+      "dof"
+    ],
+    "conditions": [
+      "class:Natural",
+      "element:Air",
+      "element:Plant",
+      "element:Earth",
+      "element:Water",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Arcorina",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Ruin"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Ruin"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Ruin"
+    ]
+  },
+  {
+    "name": "Hairionette",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control"
+    ]
+  },
+  {
+    "name": "Owlesque",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Hoax"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Hoax"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Hoax"
+    ]
+  },
+  {
+    "name": "Shhimmer",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Dakktyl",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Hoax",
+      "Ruin"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Hoax",
+      "Ruin"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Hoax",
+      "element:Ruin"
+    ]
+  },
+  {
+    "name": "eRmA gUrDy",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Raqsoun",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Ruin"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Ruin"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Ruin"
+    ]
+  },
+  {
+    "name": "Scallyrags",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Hoax"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Hoax"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Hoax"
+    ]
+  },
+  {
+    "name": "The Inflatterer",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Hoax",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Hoax",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Hoax",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Vawk",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Ruin",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Ruin",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Ruin",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Galymph",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Hoax",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Hoax",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Hoax",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Illoost",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Hoax",
+      "Ruin",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Hoax",
+      "Ruin",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Hoax",
+      "element:Ruin",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Jerm",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Hoax",
+      "Ruin"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Hoax",
+      "Ruin"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Hoax",
+      "element:Ruin"
+    ]
+  },
+  {
+    "name": "Unklaw",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Ruin",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Ruin",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Ruin",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "STRingmaster",
+    "monster_class": "Paironormal",
+    "subclass": null,
+    "official_elements": [
+      "Control",
+      "Hoax",
+      "Ruin",
+      "Depths"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Control",
+      "Hoax",
+      "Ruin",
+      "Depths"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "pair",
+      "vawk",
+      "inflatterer",
+      "unklaw"
+    ],
+    "conditions": [
+      "class:Paironormal",
+      "element:Control",
+      "element:Hoax",
+      "element:Ruin",
+      "element:Depths"
+    ]
+  },
+  {
+    "name": "Bogle",
+    "monster_class": "Primordial",
+    "subclass": null,
+    "official_elements": [
+      "Air Primordial"
+    ],
+    "associated_elements": [
+      "Air"
+    ],
+    "training_elements": [
+      "Air Primordial",
+      "Air"
+    ],
+    "theme_island": "Mech Islet",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Normal element tag shares meaning with the distinct Primordial sigil.",
+    "source_ids": [
+      "roster",
+      "current",
+      "primordial",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Primordial",
+      "element:Air Primordial",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "Droah",
+    "monster_class": "Primordial",
+    "subclass": null,
+    "official_elements": [
+      "Water Primordial"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Water Primordial",
+      "Water"
+    ],
+    "theme_island": "Crystal Islet",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Normal element tag shares meaning with the distinct Primordial sigil.",
+    "source_ids": [
+      "roster",
+      "current",
+      "primordial",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Primordial",
+      "element:Water Primordial",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Fandhul",
+    "monster_class": "Primordial",
+    "subclass": null,
+    "official_elements": [
+      "Cold Primordial"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Cold Primordial",
+      "Cold"
+    ],
+    "theme_island": "Shadow Islet",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Normal element tag shares meaning with the distinct Primordial sigil.",
+    "source_ids": [
+      "roster",
+      "current",
+      "primordial",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Primordial",
+      "element:Cold Primordial",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Lowb",
+    "monster_class": "Primordial",
+    "subclass": null,
+    "official_elements": [
+      "Plant Primordial"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Plant Primordial",
+      "Plant"
+    ],
+    "theme_island": "Plasma Islet",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Normal element tag shares meaning with the distinct Primordial sigil.",
+    "source_ids": [
+      "roster",
+      "current",
+      "primordial",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Primordial",
+      "element:Plant Primordial",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Tunefor",
+    "monster_class": "Primordial",
+    "subclass": null,
+    "official_elements": [
+      "Earth Primordial"
+    ],
+    "associated_elements": [
+      "Earth"
+    ],
+    "training_elements": [
+      "Earth Primordial",
+      "Earth"
+    ],
+    "theme_island": "Poison Islet",
+    "also_in_dawn_of_fire": false,
+    "status": "announced_or_in_game_data",
+    "notes": "Known name and Earth association; upcoming monster, included for name training.",
+    "source_ids": [
+      "roster",
+      "current",
+      "primordial"
+    ],
+    "conditions": [
+      "class:Primordial",
+      "element:Earth Primordial",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Blabbit",
+    "monster_class": "Seasonal",
+    "subclass": "Core",
+    "official_elements": [
+      "Eggs-Travaganza"
+    ],
+    "associated_elements": [
+      "Water"
+    ],
+    "training_elements": [
+      "Eggs-Travaganza",
+      "Water"
+    ],
+    "theme_island": "Water Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Core",
+      "element:Eggs-Travaganza",
+      "element:Water"
+    ]
+  },
+  {
+    "name": "Boo'qwurm",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "MindBoggle"
+    ],
+    "associated_elements": [
+      "Psychic"
+    ],
+    "training_elements": [
+      "MindBoggle",
+      "Psychic"
+    ],
+    "theme_island": "Psychic Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:MindBoggle",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Carillong",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Crescendo Moon"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Crescendo Moon"
+    ],
+    "theme_island": "Magical Sanctum",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Crescendo Moon"
+    ]
+  },
+  {
+    "name": "Clavavera",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Beat Hereafter"
+    ],
+    "associated_elements": [
+      "Bone"
+    ],
+    "training_elements": [
+      "Beat Hereafter",
+      "Bone"
+    ],
+    "theme_island": "Bone Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Beat Hereafter",
+      "element:Bone"
+    ]
+  },
+  {
+    "name": "Ffidyll",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Cloverspell"
+    ],
+    "associated_elements": [
+      "Faerie"
+    ],
+    "training_elements": [
+      "Cloverspell",
+      "Faerie"
+    ],
+    "theme_island": "Faerie Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Cloverspell",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Gobbleygourd",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Feast-Ember"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Feast-Ember",
+      "Fire"
+    ],
+    "theme_island": "Fire Haven",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Feast-Ember",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Hoola",
+    "monster_class": "Seasonal",
+    "subclass": "Core",
+    "official_elements": [
+      "SummerSong"
+    ],
+    "associated_elements": [
+      "Earth"
+    ],
+    "training_elements": [
+      "SummerSong",
+      "Earth"
+    ],
+    "theme_island": "Earth Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": "Earth is the intended SummerSong theme, rather than also Air.",
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Core",
+      "element:SummerSong",
+      "element:Earth"
+    ]
+  },
+  {
+    "name": "Jam Boree",
+    "monster_class": "Seasonal",
+    "subclass": null,
+    "official_elements": [
+      "Anniversary Month"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Anniversary Month"
+    ],
+    "theme_island": "Gold Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "element:Anniversary Month"
+    ]
+  },
+  {
+    "name": "Monculus",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Life-Formula"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Life-Formula"
+    ],
+    "theme_island": "Ethereal Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Life-Formula"
+    ]
+  },
+  {
+    "name": "Punkleton",
+    "monster_class": "Seasonal",
+    "subclass": "Core",
+    "official_elements": [
+      "Spooktacle"
+    ],
+    "associated_elements": [
+      "Plant"
+    ],
+    "training_elements": [
+      "Spooktacle",
+      "Plant"
+    ],
+    "theme_island": "Plant Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Core",
+      "element:Spooktacle",
+      "element:Plant"
+    ]
+  },
+  {
+    "name": "Schmoochle",
+    "monster_class": "Seasonal",
+    "subclass": "Core",
+    "official_elements": [
+      "Season of Love"
+    ],
+    "associated_elements": [
+      "Air"
+    ],
+    "training_elements": [
+      "Season of Love",
+      "Air"
+    ],
+    "theme_island": "Air Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Core",
+      "element:Season of Love",
+      "element:Air"
+    ]
+  },
+  {
+    "name": "Spurrit",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Perplexplore"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Perplexplore",
+      "Fire"
+    ],
+    "theme_island": "Fire Oasis",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Perplexplore",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Viveine",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "Echoes of Eco"
+    ],
+    "associated_elements": [
+      "Fire"
+    ],
+    "training_elements": [
+      "Echoes of Eco",
+      "Fire"
+    ],
+    "theme_island": "Amber Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "Primary event island chosen; Shugabush Island is a secondary home.",
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:Echoes of Eco",
+      "element:Fire"
+    ]
+  },
+  {
+    "name": "Whiz-bang",
+    "monster_class": "Seasonal",
+    "subclass": "Auxiliary",
+    "official_elements": [
+      "SkyPainting"
+    ],
+    "associated_elements": [
+      "Light"
+    ],
+    "training_elements": [
+      "SkyPainting",
+      "Light"
+    ],
+    "theme_island": "Light Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Auxiliary",
+      "element:SkyPainting",
+      "element:Light"
+    ]
+  },
+  {
+    "name": "Yool",
+    "monster_class": "Seasonal",
+    "subclass": "Core",
+    "official_elements": [
+      "Festival of Yay"
+    ],
+    "associated_elements": [
+      "Cold"
+    ],
+    "training_elements": [
+      "Festival of Yay",
+      "Cold"
+    ],
+    "theme_island": "Cold Island",
+    "also_in_dawn_of_fire": true,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Seasonal",
+      "subclass:Core",
+      "element:Festival of Yay",
+      "element:Cold"
+    ]
+  },
+  {
+    "name": "Glowbe",
+    "monster_class": "Spectral",
+    "subclass": null,
+    "official_elements": [],
+    "associated_elements": [],
+    "training_elements": [],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": "No official element; class is usable as a condition.",
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Spectral"
+    ]
+  },
+  {
+    "name": "Astropod",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Blipsqueak",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Bona-Petite",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Brump",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Creepuscule",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Dermit",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Dwumrohl",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Fleechwurm",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Gheegur",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Maulch",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Pixolotl",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Poewk",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Scargo",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Screemu",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Thwok",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Tympa",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Whajje",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Wubbox",
+    "monster_class": "Supernatural",
+    "subclass": "Wubbox",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wubbox",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Zuuker",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Zynth",
+    "monster_class": "Supernatural",
+    "subclass": "Wublin",
+    "official_elements": [
+      "Electricity"
+    ],
+    "associated_elements": [],
+    "training_elements": [
+      "Electricity"
+    ],
+    "theme_island": null,
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "classes"
+    ],
+    "conditions": [
+      "class:Supernatural",
+      "subclass:Wublin",
+      "element:Electricity"
+    ]
+  },
+  {
+    "name": "Cruv'laaphtian Crocus",
+    "monster_class": "Titansoul",
+    "subclass": null,
+    "official_elements": [
+      "Titansoul"
+    ],
+    "associated_elements": [
+      "Psychic"
+    ],
+    "training_elements": [
+      "Titansoul",
+      "Psychic"
+    ],
+    "theme_island": "Psychic Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Titansoul",
+      "element:Titansoul",
+      "element:Psychic"
+    ]
+  },
+  {
+    "name": "Faesoddoid Fungus",
+    "monster_class": "Titansoul",
+    "subclass": null,
+    "official_elements": [
+      "Titansoul"
+    ],
+    "associated_elements": [
+      "Faerie"
+    ],
+    "training_elements": [
+      "Titansoul",
+      "Faerie"
+    ],
+    "theme_island": "Faerie Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Titansoul",
+      "element:Titansoul",
+      "element:Faerie"
+    ]
+  },
+  {
+    "name": "Phosphoran Phlox",
+    "monster_class": "Titansoul",
+    "subclass": null,
+    "official_elements": [
+      "Titansoul"
+    ],
+    "associated_elements": [
+      "Light"
+    ],
+    "training_elements": [
+      "Titansoul",
+      "Light"
+    ],
+    "theme_island": "Light Island",
+    "also_in_dawn_of_fire": false,
+    "status": "released",
+    "notes": null,
+    "source_ids": [
+      "roster",
+      "current",
+      "taxonomy"
+    ],
+    "conditions": [
+      "class:Titansoul",
+      "element:Titansoul",
+      "element:Light"
+    ]
+  }
+]

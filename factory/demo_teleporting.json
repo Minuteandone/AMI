@@ -1,0 +1,111 @@
+{
+  "island_name": "Aal Island",
+  "primary_type": "teleporting",
+  "seed_elements": [],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "Aal Island"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 31,
+  "monster_list": [
+    {
+      "name": "Nitebear",
+      "source": "existing_via_pair_model",
+      "score": 0.791
+    },
+    {
+      "name": "Meebkin",
+      "source": "existing_via_pair_model",
+      "score": 0.772
+    },
+    {
+      "name": "Yooreek",
+      "source": "existing_via_pair_model",
+      "score": 0.7662
+    },
+    {
+      "name": "Gaddzooks",
+      "source": "existing_via_pair_model",
+      "score": 0.7575
+    },
+    {
+      "name": "Potbelly",
+      "source": "existing_via_pair_model",
+      "score": 0.7347
+    },
+    {
+      "name": "Quleb",
+      "source": "generated_via_pair_model",
+      "score": 0.6401,
+      "generator_conditions": [
+        "class:Ethereal",
+        "element:Water",
+        "element:Mech"
+      ]
+    },
+    {
+      "name": "Panocte",
+      "source": "generated_via_pair_model",
+      "score": 0.5479,
+      "generator_conditions": [
+        "class:Ethereal",
+        "element:Water",
+        "element:Mech"
+      ]
+    },
+    {
+      "name": "Gaddlib",
+      "source": "generated_via_pair_model",
+      "score": 0.5317,
+      "generator_conditions": [
+        "class:Natural",
+        "element:Earth",
+        "element:Electricity",
+        "element:Cold"
+      ]
+    },
+    {
+      "name": "Pl Pj",
+      "source": "generated_via_pair_model",
+      "score": 0.4859,
+      "generator_conditions": [
+        "class:Ethereal",
+        "element:Water",
+        "element:Mech"
+      ]
+    },
+    {
+      "name": "Sque",
+      "source": "generated_via_pair_model",
+      "score": 0.4786,
+      "generator_conditions": [
+        "class:Natural",
+        "element:Cold",
+        "element:Earth",
+        "element:Water"
+      ]
+    },
+    {
+      "name": "Oog",
+      "source": "generated_via_pair_model",
+      "score": 0.478,
+      "generator_conditions": [
+        "class:Magical",
+        "element:Psychic"
+      ]
+    }
+  ],
+  "gimmicks": [],
+  "status": "entirely_ai_generated_experiment",
+  "roster_trace": {
+    "candidate_old": 263,
+    "candidate_new": 30,
+    "threshold": 0.55,
+    "selection": "top-scoring names subject to a random roster-size quota"
+  },
+  "monster_count": 11,
+  "generated_monster_count": 6
+}

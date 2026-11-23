@@ -1,0 +1,99 @@
+{
+  "island_name": "Mirror WFanir Island",
+  "primary_type": "zapping",
+  "seed_elements": [
+    "Plant"
+  ],
+  "naming_trace": {
+    "attempts": 1,
+    "raw_candidates_first_12": [
+      "Mirror WFanir Island"
+    ],
+    "backend": "tiny conditional GRU"
+  },
+  "generation_seed": 31,
+  "monster_list": [
+    {
+      "name": "Sc'gtih",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Shhedow",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "G'jauche",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Schwohnd",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Blhllepi",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Shuge",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    },
+    {
+      "name": "Spurer",
+      "source": "generated_only",
+      "seed_element": "Plant",
+      "generator_conditions": [
+        "class:Supernatural",
+        "element:Plant",
+        "element:Electricity",
+        "subclass:Wublin"
+      ]
+    }
+  ],
+  "gimmicks": [],
+  "status": "entirely_ai_generated_experiment",
+  "zap_generation_style": "Supernatural",
+  "monster_count": 7,
+  "generated_monster_count": 7
+}
