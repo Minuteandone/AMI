@@ -2,6 +2,10 @@
 
 Tiny, experimentally trained My Singing Monsters-inspired models. Most generated names, islands, and biographies are spectacular nonsense **on purpose**. No external language-model API is required.
 
+## Run AMI directly on GitHub (no local Python required)
+
+Open **Actions → [Generate with AMI](https://github.com/Minuteandone/AMI/actions/workflows/run_ami.yml) → Run workflow**. Choose an island, an element prediction, or a biography; optionally enter a seed, monster name, and breeding elements. The run uploads its result as an artifact called `ami-generated-output`.
+
 ## Install
 
 Requires Python 3.10+ and CPU-capable PyTorch.
